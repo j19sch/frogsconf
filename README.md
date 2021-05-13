@@ -1,0 +1,2 @@
+# frogsconf
+FroGS conf site
