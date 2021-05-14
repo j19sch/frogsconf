@@ -10,12 +10,19 @@
 
 .navbar {
 	background-color: #000000 !important;
-	font-family: 'PT Mono' !important;
 }
 
 .navbar a {
-		color: #33ff33 !important;
-		font-family: 'PT Mono' !important;
+	font-family: 'PT Mono', sans-serif;
+	color: #33ff33 !important;
+}
+
+.body-content h1, h2, h3, h4, h5, h6 {
+	font-family: 'PT Mono', sans-serif;
+}
+
+.body-content {
+	font-family: 'Lora', serif;
 }
 
 .navbar-brand {
@@ -54,17 +61,11 @@
 	padding-right: 15px;
 }
 
-
-.body-content {
-	font-family: 'Lora' !important;
-}
-
-
-.body-content h1, h2, h3, h4, h5, h6 {
-	font-family: 'PT Mono' !important;
-}
-
-
+ div.container {
+ 	max-width: 960px;
+ }
+ 
+ 
 .body-content a {
 	color: #7030a0;
 	/*color: #1b881b;*/

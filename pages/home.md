@@ -10,7 +10,7 @@
 .. hidetitle: true
 -->
 
-<h1 class="align-center">Save the dates for FroGS conf<br>- Virtual Edition -<br>Wednesday 1 September (evening) and Saturday 4 September 2021</h1>
+<h1 class="align-center">Save the dates for FroGS conf!<br>- Virtual Edition -<br>Wednesday 1 September (evening) and<br>Saturday 4 September 2021</h1>
 
 ---
 
@@ -21,26 +21,27 @@
 ---
 
 ## What is FroGS conf?
-Friends of Good Software is an unconference. It's a participant-driven meeting for and by people with an interest in software testing. The organizers provide a basic structure; the rest is up to all of us, the participants.
+FroGS conf, or "Friends of Good Software conference" in full, is an unconference. It's a participant-driven meeting for and by people with an interest in quality and software. The organizers provide a basic structure; the rest is up to all of us, the participants.
 
 
 ### When is it?
 
-Wednesday 1 September 2021 (lean coffee, Miro orientation, social hangout) & Saturday 4 September 2021 (unconference). You can find the schedule [here](/event-format/#schedule-saturday).
+Wednesday 1 September 2021 in the evening (lean coffee, Miro orientation, social hangout) & Saturday 4 September 2021 (unconference).
+
+
+You can find the schedule [here](/schedule).
 
 
 ### How can I get a ticket?
 
-If you wish to attend, please register [here](/tickets).
-
-Tickets for this virtual edition are free.
+If you wish to attend, please register [here](/tickets). Tickets for this virtual edition are free.
 
 
 ### Code of Conduct: The Short Version
 
 We want FroGS conf to be a welcoming and safe space, where everyone can participate.
 
-The Short Version: Be a respectful human person. Let other people be themselves. Do not ruin anyone else’s experience. Keep an open mind. If you see or experience something unacceptable, respectfully ask for it to stop. The TestCraftCamp organizers will support you.
+The Short Version: Be a respectful human person. Let other people be themselves. Do not ruin anyone else’s experience. Keep an open mind. If you see or experience something unacceptable, respectfully ask for it to stop. The FroGS conf organizers will support you.
 
 Read our full Code of Conduct [here](/code-of-conduct).
 
@@ -48,19 +49,19 @@ Read our full Code of Conduct [here](/code-of-conduct).
 
 ## What can you expect?
 
-Conferring & collaborating with people passionate about testing!
+Conferring & collaborating with people passionate about quality and software!
 
 ### Meet inspiring people
-Meet and hang out with people passionate about software testing. Connect and expand your network. Meet other brilliant minds and get inspired.
+Meet and hang out with people passionate about quality and software. Connect and expand your network. Meet other brilliant minds and get inspired.
 
 ### Join hands-on sessions & group discussions
-Get new ideas about testing and working in IT. Discuss and try out new techniques. Fill your testing backpack with ideas, activities and techniques you can try out in your teams back home.
+Get new ideas about quality and working in IT. Discuss and try out new techniques. Fill your backpack with ideas, activities and techniques you can try out in your teams back home.
 
 ### Facilitate or participate in workshops and conversations
-Discuss your problems or share your new ideas. Get feedback from other testers. Maybe you did some research you are enthusiastic about? Let other people know!
+Discuss your problems or share your new ideas. Get feedback from others. Maybe you did some research you are enthusiastic about? Let other people know!
 
 ### Get new ideas, learn & experiment
-Learn new skills by collaborating, pairing or mobbing with others testers.
+Learn new skills by collaborating, pairing or ensembling with others.
 
 
 ---

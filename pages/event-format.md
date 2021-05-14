@@ -11,7 +11,7 @@
 
 ![open space marketplace](/assets/images/event-format.jpeg)
 
-TestCraftCamp is organized as an unconference, a conference format that follows the [Open Space Technology](http://en.wikipedia.org/wiki/Open_Space_Technology#Guiding_principles_and_one_law) The idea of an unconference is to learn from and share with each other. It’s a way to build a conference around those meaningful interactions you have during the breaks at a normal conference.
+FroGs conf is organized as an unconference, a conference format that follows the [Open Space Technology](http://en.wikipedia.org/wiki/Open_Space_Technology#Guiding_principles_and_one_law). The idea of an unconference is to learn from and share with each other. It’s a way to build a conference around those meaningful interactions you have during the breaks at a normal conference.
 
 In this format, __attendees are also session contributors__. Anyone who wants to initiate a topic can claim a time slot in the conference schedule, and the agenda is done once the schedule starts, on the spot, as we will explain later.
 
@@ -22,12 +22,14 @@ We use the open space principles to organise our event. At the beginning of the 
 
 ## Virtual Edition
 
-Due to the uncertain situation while organising this years conference, we have decided to __not__ do a physical edition. Our crew members have in the past months experienced very successful editions of other virtual open space conferences and decided to follow this example. We expect to use [Zoom](https://zoom.us/) and [Miro](https://miro.com/) as our main conference tools.
+Due to the uncertain circumstances in organizing a conference we have decided to __not__ do a physical edition. 
+
+ Our team members - and perhaps you too - have in the past months experienced very successful editions of virtual open space conferences. We expect to use [Zoom](https://zoom.us/) and [Miro](https://miro.com/) as our main conference tools.
 
 We use [Slack](http://slack.com/) for pre-, side- and post conference discussions. You will be invited to our Slack channel before the conference.
 
 
-### Open Space Principles
+## Open Space conferences
 
 There are some simple rules for participants.
 
@@ -54,8 +56,9 @@ If, during the course of the event, any person finds themselves in a session whe
 #### Butterflies
 Butterflies hang out, looking relaxed, maybe drinking tea. They don’t appear to do much and interesting discussions may emerge around them as people find them and pause to chat. They may just be involved with the most important discussions of the day.
 
-#### Bumble Bees
+#### Bumblebees
 Bumblebees fly from group to group cross-pollinating the discussions, bring new ideas, and fresh eyes to the table. They can also encourage mingling for those for whom the Law of Two Feet feels a bit rude.
+
 
 ### How do I prepare?
 
@@ -64,32 +67,24 @@ If you want to know how to prepare for an unconference, you can read about that 
 
 ## Possible session topics
 
-Since it’s called “TestCraftCamp” we do expect topics to be related to the field of testing. However, a lot of topics are related to testing:
+Since it’s called “Friends of Good Software conference” we do expect topics to be related to the fields of sotware and quality:
 
 - test approach and strategy
-- test techniques
 - oracles and heuristics
 - testability
 - documentation
 - note taking
-- testing and agile, scrum, waterfall, XP, …
-- automation in testing
+- quality and agile, scrum, waterfall, XP, ...
+- automation in building, testing, deploying, ...
 - tools
 - risk analysis
 - storytelling
 - modelling & visualisation
 - user story refinement
-- CI/CD
 - communication skills
 - collaboration skills
-- test improvement
-- testing games
-- testing problems you need help with
-- how to hire new testers
-- AI and machine learning
-- data driven software testing
-- …
+- problems you need help with
+- how to hire new people
+- ...
 
 Be creative! Create your own session with the stuff you want to talk about, learn more about or let others help you solve a testing problem.
-
-![facilator and schedule](/assets/images/possible-topics.png)

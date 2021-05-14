@@ -1,5 +1,5 @@
 <!--
-.. title: Schedule
+.. title: Preliminary schedule
 .. slug: schedule
 .. date: 2021-05-14 13:14:47 UTC
 .. tags: 
@@ -10,10 +10,10 @@
 -->
 
 
-All times are in Central European Time (CET), i.e. UTC+1.
+All times are in Central European Time (CEST), i.e. UTC+2.
 
 
-### <a name="schedule-monday"></a>Monday 8 March
+### <a name="schedule-evening"></a>Wednesday 1 September
 
 <table class="table table-sm" style="max-width:600px">
   <thead class="thead-light">
@@ -51,7 +51,7 @@ All times are in Central European Time (CET), i.e. UTC+1.
 </table>
 
 
-### <a name="schedule-saturday"></a>Saturday 13 March
+### <a name="schedule-conference"></a>Saturday 4 September
 
 <table class="table table-sm" style="max-width:600px">
   <thead class="thead-light">
