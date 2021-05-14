@@ -38,7 +38,7 @@ Tickets for this virtual edition are free.
 
 ### Code of Conduct: The Short Version
 
-We want TestCraftCamp to be a welcoming and safe space, where everyone can participate.
+We want FroGS conf to be a welcoming and safe space, where everyone can participate.
 
 The Short Version: Be a respectful human person. Let other people be themselves. Do not ruin anyone else’s experience. Keep an open mind. If you see or experience something unacceptable, respectfully ask for it to stop. The TestCraftCamp organizers will support you.
 
@@ -59,14 +59,14 @@ Get new ideas about testing and working in IT. Discuss and try out new technique
 ### Facilitate or participate in workshops and conversations
 Discuss your problems or share your new ideas. Get feedback from other testers. Maybe you did some research you are enthusiastic about? Let other people know!
 
-### Get new Ideas, learn & experiment
+### Get new ideas, learn & experiment
 Learn new skills by collaborating, pairing or mobbing with others testers.
 
-We are going to have fun!
 
 ---
 
-## Friends of Good Software conference team
+
+## FroGS conference team
 
 <div style="display:flex; justify-content:center; flex-wrap:wrap;">
 	<div style="width:250px; margin:25px;">
@@ -74,7 +74,6 @@ We are going to have fun!
 		<p class="text-center">Huib Schoots
 			<a href="https://twitter.com/huibschoots" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/in/huibschoots/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
-			<br>(editions 2021 - present)
 		</p>
 	</div>
 	<div style="width:250px; margin:25px;">
@@ -82,7 +81,6 @@ We are going to have fun!
 		<p class="text-center">Joep Schuurkes
 			<a href="https://twitter.com/j19sch" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/in/joepschuurkes/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
-			<br>(editions 2021 - present)
 		</p>
 	</div>
 	<div style="width:250px; margin:25px;">
@@ -90,7 +88,6 @@ We are going to have fun!
 		<p class="text-center">Cirilo Wortel
 			<a href="https://twitter.com/sietstweets" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/in/cirilowortel/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
-			<br>(editions 2021 - present)
 		</p>
 	</div>
 	<div style="width:250px; margin:25px;">
@@ -98,7 +95,6 @@ We are going to have fun!
 		<p class="text-center">Elizabeth Zagroba
 			<a href="https://twitter.com/ezagroba" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/in/ezagroba/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
-			<br>(editions 2021 - present)
 		</p>
 	</div>
 </div>

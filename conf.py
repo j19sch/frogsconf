@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "FroGS conf"  # (translatable)
-BLOG_TITLE = "Friends of Good Software conference"  # (translatable)
+BLOG_TITLE = "FroGS conf"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://frogsconf.nl/"
@@ -142,8 +142,8 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/tickets", "Register"),
         ("/event-format", "Event format"),
-        ("/topics", "Possible session topics"),
-        ("schedule", "Schedule"),
+        # ("/topics", "Possible session topics"),
+        ("/schedule", "Schedule"),
         ("/code-of-conduct", "Code of conduct"),
     ),
 }
