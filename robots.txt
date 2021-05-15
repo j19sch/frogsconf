@@ -1,0 +1,4 @@
+Sitemap: https://frogsconf.nl/sitemapindex.xml
+
+User-Agent: *
+Host: frogsconf.nl
