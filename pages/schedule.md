@@ -27,7 +27,7 @@ All times are in Central European Time (CEST), i.e. UTC+2.
   		<td>19:00</td>
   		<td>Warm-ups & getting to know each other</td>
     </tr>
-    <tr class="table-info">
+    <tr class="sched-green">
       <td>19:15</td>
       <td>Conference instructions</td>
     </tr>
@@ -35,7 +35,7 @@ All times are in Central European Time (CEST), i.e. UTC+2.
       <td>19:45</td>
       <td>Break</td>
     </tr>
-    <tr style="background-color:rgb(112, 48, 160, 0.40);">
+    <tr class="sched-purple">
       <td>20:00</td>
       <td>Track 1: Lean coffee</td>
     </tr>
@@ -65,15 +65,15 @@ All times are in Central European Time (CEST), i.e. UTC+2.
       <td>08:30</td>
       <td>Walk in & Shared Breakfast</td>
     </tr>
-    <tr class="table-info">
+    <tr class="sched-green">
       <td>09:00</td>
       <td>Welcome & Instructions</td>
     </tr>
-    <tr class="table-info">
+    <tr class="sched-green">
       <td>09:30</td>
       <td>Marketplace – Determining our sessions</td>
     </tr>
-    <tr style="background-color:rgb(112, 48, 160, 0.40);">
+    <tr class="sched-purple">
       <td>10:30</td>
       <td>Interactive sessions – Round 1</td>
     </tr>
@@ -81,7 +81,7 @@ All times are in Central European Time (CEST), i.e. UTC+2.
       <td>11:15</td>
       <td>Break</td>
     </tr>
-    <tr style="background-color:rgb(112, 48, 160, 0.40);">
+    <tr class="sched-purple">
       <td>11:30</td>
       <td>Interactive sessions – Round 2</td>
     </tr>
@@ -89,11 +89,11 @@ All times are in Central European Time (CEST), i.e. UTC+2.
       <td>12:15</td>
       <td>Lunch</td>
     </tr>
-    <tr class="table-info">
+    <tr class="sched-green">
       <td>13:15</td>
       <td>Marketplace – Determining our sessions</td>
     </tr>
-    <tr style="background-color:rgb(112, 48, 160, 0.40);">
+    <tr class="sched-purple">
       <td>13:45</td>
       <td>Interactive sessions – Round 3</td>
     </tr>
@@ -101,7 +101,7 @@ All times are in Central European Time (CEST), i.e. UTC+2.
       <td>14:30</td>
       <td>Break</td>
     </tr>
-    <tr style="background-color:rgb(112, 48, 160, 0.40);">
+    <tr class="sched-purple">
       <td>14:45</td>
       <td>Interactive sessions – Round 4</td>
     </tr>
@@ -109,7 +109,7 @@ All times are in Central European Time (CEST), i.e. UTC+2.
       <td>15:30</td>
       <td>Break</td>
     </tr>
-    <tr style="background-color:rgb(112, 48, 160, 0.40);">
+    <tr class="sched-purple">
       <td>15:45</td>
       <td>Interactive sessions – Round 5</td>
     </tr>
@@ -117,7 +117,7 @@ All times are in Central European Time (CEST), i.e. UTC+2.
       <td>16:30</td>
       <td>Break</td>
     </tr>
-    <tr class="table-info">
+    <tr class="sched-green">
       <td>16:45</td>
       <td>Retrospective & Closing</td>
     </tr>

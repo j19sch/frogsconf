@@ -10,7 +10,7 @@
 .. hidetitle: true
 -->
 
-<h1 class="align-center">Save the dates for FroGS conf!<br>- Virtual Edition -<br>Wednesday 1 September (evening) and<br>Saturday 4 September 2021</h1>
+<h1 class="align-center">Friends of Good Software<br>- Virtual Edition -<br>Wednesday 1 September (evening) and<br>Saturday 4 September 2021</h1>
 
 ---
 
@@ -26,15 +26,15 @@ FroGS conf, or "Friends of Good Software conference" in full, is an unconference
 
 ### When is it?
 
-Wednesday 1 September 2021 in the evening (lean coffee, Miro orientation, social hangout) & Saturday 4 September 2021 (unconference).
+Wednesday 1 September 2021 in the evening (lean coffee, tools orientation, social hangout) & Saturday 4 September 2021 (unconference).
 
 
-You can find the schedule [here](/schedule).
+You can find the schedule [here](link://slug/schedule).
 
 
 ### How can I get a ticket?
 
-If you wish to attend, please register [here](/tickets). Tickets for this virtual edition are free.
+If you wish to attend, please register [here](link://slug/register). Tickets for this virtual edition are free.
 
 
 ### Code of Conduct: The Short Version
@@ -43,7 +43,7 @@ We want FroGS conf to be a welcoming and safe space, where everyone can particip
 
 The Short Version: Be a respectful human person. Let other people be themselves. Do not ruin anyone else’s experience. Keep an open mind. If you see or experience something unacceptable, respectfully ask for it to stop. The FroGS conf organizers will support you.
 
-Read our full Code of Conduct [here](/code-of-conduct).
+Read our full Code of Conduct [here](link://slug/code-of-conduct).
 
 ---
 
