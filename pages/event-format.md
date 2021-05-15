@@ -1,4 +1,4 @@
-<!--
+< !--
 .. title: Event format
 .. slug: event-format
 .. date: 2021-05-14 13:14:47 UTC
@@ -13,16 +13,9 @@
 
 FroGs conf is organized as an unconference, a conference format that follows the [Open Space Technology](http://en.wikipedia.org/wiki/Open_Space_Technology#Guiding_principles_and_one_law). The idea of an unconference is to learn from and share with each other. It’s a way to build a conference around those meaningful interactions you have during the breaks at a normal conference.
 
-In this format, __attendees are also session contributors__. Anyone who wants to initiate a topic can claim a time slot in the conference schedule. Once you are at the conference, the __organizers' job is mostly over__. They have provided a space and the tools for the event, after this, it’s __up to you as a participant to make it a great event__.
+In this format, __attendees are also session contributors__. Anyone who wants to initiate a topic can claim a time slot in the conference schedule. Once you are at the conference, the __organizers' job is mostly over__. They have provided a space and the tools for the event. After this, it’s __up to you as a participant to make it a great event__.
 
-We use the open space principles to organise our event. At the beginning of the conference we will go over the principles and rules to make sure everybody knows how the conference is run.
-
-
-## Virtual Edition
-
-Due to the uncertain circumstances in organizing a conference we have decided to not do a physical edition and do a virtual one instead.
-
-Our team members - and perhaps you too - have in the past months organized and experienced very successful editions of virtual open space conferences. So we are confident we will be able to deliver a great event together with you.
+At the beginning of the conference, we will go over the open space principles and rules to make sure everybody knows how the conference is run.
 
 We expect to use [Zoom](https://zoom.us/) and [Miro](https://miro.com/) as our main conference tools. We use [Slack](http://slack.com/) for pre-, side- and post conference discussions. You will be invited to our Slack channel before the conference.
 

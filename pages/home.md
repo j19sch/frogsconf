@@ -26,22 +26,23 @@ FroGS conf, or "Friends of Good Software conference" in full, is an unconference
 
 ### When is it?
 
-Wednesday 1 September 2021 in the evening (lean coffee, tools orientation, social hangout) & Saturday 4 September 2021 (unconference).
+Wednesday 1 September 2021 in the evening (lean coffee, tools orientation, social hangout)  
+Saturday 4 September 2021 (unconference)
 
 
 You can find the schedule [here](link://slug/schedule).
 
 
-### How can I get a ticket?
+### How can I register?
 
-If you wish to attend, please register [here](link://slug/register). Tickets for this virtual edition are free.
+If you wish to attend, please register [here](link://slug/register). This virtual edition is free.
 
 
-### Code of Conduct: The Short Version
+### Code of Conduct: the short version
 
 We want FroGS conf to be a welcoming and safe space, where everyone can participate.
 
-The Short Version: Be a respectful human person. Let other people be themselves. Do not ruin anyone else’s experience. Keep an open mind. If you see or experience something unacceptable, respectfully ask for it to stop. The FroGS conf organizers will support you.
+The short version: Be a respectful human person. Let other people be themselves. Do not ruin anyone else’s experience. Keep an open mind. If you see or experience something unacceptable, respectfully ask for it to stop. The FroGS conf organizers will support you.
 
 Read our full Code of Conduct [here](link://slug/code-of-conduct).
 
@@ -49,18 +50,18 @@ Read our full Code of Conduct [here](link://slug/code-of-conduct).
 
 ## What can you expect?
 
-Conferring & collaborating with people passionate about quality and software!
+Conferring & collaboratingng with people passionate about quality and software!
 
 ### Meet inspiring people
-Meet and hang out with people passionate about quality and software. Connect and expand your network. Meet other brilliant minds and get inspired.
+Meet other brilliant and passionate minds. Get inspired. Connect and expand your network. 
 
 ### Join hands-on sessions & group discussions
-Get new ideas about quality and working in IT. Discuss and try out new techniques. Fill your backpack with ideas, activities and techniques you can try out in your teams back home.
+Collect new ideas about quality and working in IT. Discuss and try out new techniques. Fill your mind with ideas, practices, and activities you can try out in your teams back at work.
 
 ### Facilitate or participate in workshops and conversations
 Discuss your problems or share your new ideas. Get feedback from others. Maybe you did some research you are enthusiastic about? Let other people know!
 
-### Get new ideas, learn & experiment
+### Learn & work together
 Learn new skills by collaborating, pairing or ensembling with others.
 
 
