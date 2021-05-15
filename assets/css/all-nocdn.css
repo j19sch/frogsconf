@@ -902,21 +902,17 @@ html[dir="rtl"] body {
   font-display: swap;
 }
 
-.navbar {
-	background-color: #000000 !important;
-}
+div.container {
+ 	max-width: 960px;
+ }
 
 .navbar a {
 	font-family: 'PT Mono', sans-serif;
 	color: #33ff33 !important;
 }
 
-.body-content h1, h2, h3, h4, h5, h6 {
-	font-family: 'PT Mono', sans-serif;
-}
-
-.body-content {
-	font-family: 'Lora', serif;
+.navbar {
+	background-color: #000000 !important;
 }
 
 .navbar-brand {
@@ -945,10 +941,26 @@ html[dir="rtl"] body {
 	padding-right: 15px;
 }
 
- div.container {
- 	max-width: 960px;
- }
- 
+@media (max-width: 768px) {
+	.nav-item {
+		border-width: 0px 0px 0px 0px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.nav-item:last-child {
+		border-width: 0px 0px 0px 0px;
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+}
+
+.body-content h1, h2, h3, h4, h5, h6 {
+	font-family: 'PT Mono', sans-serif;
+}
+
+.body-content {
+	font-family: 'Lora', serif;
+}
 
 .body-content a {
 	color: #7030a0;
@@ -961,3 +973,4 @@ html[dir="rtl"] body {
 .sched-purple {
 	background-color:rgb(112, 48, 160, 0.40);
 }
+
