@@ -1,5 +1,5 @@
 <!--
-.. title: FroGSconf
+.. title: FroGS conf
 .. slug: index
 .. date: 2021-05-14 12:45:47 UTC
 .. tags: 
@@ -15,7 +15,7 @@
 ---
 
 <div style="display:flex; justify-content:center; align-items:center;">
-	<img style="width:60%;height:60%" src="/assets/images/temp-banner-Sep2021.png"/>
+	<img class="banner" src="/assets/images/frogsconf-banner-sep2021.png"/>
 </div>
 
 ---

@@ -947,6 +947,18 @@ div.container {
 	}
 }
 
+.banner {
+	width:60%;
+	height:60%;
+}
+
+@media (max-width: 768px) {
+	.banner {
+		width:80%;
+		height:80%;
+	}
+}
+
 .body-content h1, h2, h3, h4, h5, h6 {
 	font-family: 'PT Mono', sans-serif;
 }
