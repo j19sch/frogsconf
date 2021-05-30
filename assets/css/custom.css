@@ -93,3 +93,8 @@ div.container {
 .sched-purple {
 	background-color:rgb(112, 48, 160, 0.40);
 }
+
+button {
+	font-family: 'PT Mono', sans-serif;
+	font-size: 1.2rem;
+}
