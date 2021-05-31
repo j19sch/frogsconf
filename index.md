@@ -10,7 +10,7 @@
 .. hidetitle: true
 -->
 
-<h1 class="align-center">Friends of Good Software<br>- Virtual Edition -<br>Wednesday 1 September (evening) and<br>Saturday 4 September 2021</h1>
+<h1 class="align-center">Friends of Good Software<br>- Virtual Edition -<br>Friday 3 September (evening) and<br>Saturday 4 September 2021</h1>
 
 ---
 
@@ -26,7 +26,7 @@ FroGS conf, or "Friends of Good Software conference" in full, is an unconference
 
 ### When is it?
 
-Wednesday 1 September 2021 in the evening (lean coffee, tools orientation, social hangout)  
+Friday 3 September 2021 in the evening (lean coffee, tools orientation, social hangout)  
 Saturday 4 September 2021 (unconference)
 
 

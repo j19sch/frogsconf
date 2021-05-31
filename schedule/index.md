@@ -13,7 +13,7 @@
 All times are in Central European Time (CEST), i.e. UTC+2.
 
 
-### <a name="schedule-evening"></a>Wednesday 1 September
+### <a name="schedule-evening"></a>Friday 3 September
 
 <table class="table table-sm" style="max-width:600px">
   <thead class="thead-light">
