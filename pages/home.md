@@ -50,7 +50,7 @@ Read our full Code of Conduct [here](link://slug/code-of-conduct).
 
 ## What can you expect?
 
-Conferring & collaboratingng with people passionate about quality and software!
+Conferring & collaborating with people passionate about quality and software!
 
 ### Meet inspiring people
 Meet other brilliant and passionate minds. Get inspired. Connect and expand your network. 
