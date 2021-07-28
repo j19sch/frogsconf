@@ -5,7 +5,7 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: 
+.. description: Friends of Good Software (FroGS) open space conference - Friday 3 and Saturday 4 September 2021 (virtual edition)
 .. type: text
 .. hidetitle: true
 -->
