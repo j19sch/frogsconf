@@ -14,6 +14,7 @@ All times are in Central European Time (CEST), i.e. UTC+2.
 
 
 ### <a name="schedule-evening"></a>Friday 3 September
+<a href="https://localschedule.netlify.app/#eyJuYW1lIjoiRnJvR1MgY29uZiBGcmlkYXkiLCJkYXkiOiIyMDIxLTA5LTAzIiwidHoiOiJFdXJvcGUvQW1zdGVyZGFtIiwic2Vzc2lvbnMiOnsiMTkwMCI6Ildhcm0tdXBzICYgZ2V0dGluZyB0byBrbm93IGVhY2ggb3RoZXIiLCIxOTE1IjoiQ29uZmVyZW5jZSBpbnN0cnVjdGlvbnMiLCIxOTQ1IjoiQnJlYWsiLCIyMDAwIjoiVHJhY2sgMTogTGVhbiBjb2ZmZWUgLy8gVHJhY2sgMjogRnVuIHN0YXJ0cyIsIjIxMDAiOiJUaGUgZnVuIGNvbnRpbnVlcyJ9fQ" target="_blank">Schedule in your time zone</a>
 
 <table class="table table-sm" style="max-width:600px">
   <thead class="thead-light">
@@ -52,6 +53,7 @@ All times are in Central European Time (CEST), i.e. UTC+2.
 
 
 ### <a name="schedule-conference"></a>Saturday 4 September
+<a href="https://localschedule.netlify.app/#eyJuYW1lIjoiRnJvR1MgY29uZiBTYXR1cmRheSIsImRheSI6IjIwMjEtMDktMDQiLCJ0eiI6IkV1cm9wZS9BbXN0ZXJkYW0iLCJzZXNzaW9ucyI6eyI4MzAiOiJXYWxrIGluICYgU2hhcmVkIEJyZWFrZmFzdCIsIjkwMCI6IldlbGNvbWUgJiBJbnN0cnVjdGlvbnMiLCI5MzAiOiJNYXJrZXRwbGFjZSAtIERldGVybWluaW5nIG91ciBzZXNzaW9ucyIsIjEwMzAiOiJJbnRlcmFjdGl2ZSBzZXNzaW9ucyAtIFJvdW5kIDEiLCIxMTE1IjoiQnJlYWsiLCIxMTMwIjoiSW50ZXJhY3RpdmUgc2Vzc2lvbnMgLSBSb3VuZCAyIiwiMTIxNSI6Ikx1bmNoIiwiMTMxNSI6Ik1hcmtldHBsYWNlIC0gRGV0ZXJtaW5pbmcgb3VyIHNlc3Npb25zIiwiMTM0NSI6IkludGVyYWN0aXZlIHNlc3Npb25zIC0gUm91bmQgMyIsIjE0MzAiOiJCcmVhayIsIjE0NDUiOiJJbnRlcmFjdGl2ZSBzZXNzaW9ucyAtIFJvdW5kIDQiLCIxNTMwIjoiQnJlYWsiLCIxNTQ1IjoiSW50ZXJhY3RpdmUgc2Vzc2lvbnMgLSBSb3VuZCA1IiwiMTYzMCI6IkJyZWFrIiwiMTY0NSI6IlJldHJvc3BlY3RpdmUgJiBDbG9zaW5nIiwiMTcxNSI6IlZpcnR1YWwgZHJpbmtzICYgZ2FtZXMifX0=" target="_blank">Schedule in your time zone</a>
 
 <table class="table table-sm" style="max-width:600px">
   <thead class="thead-light">
