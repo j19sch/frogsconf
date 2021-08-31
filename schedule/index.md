@@ -1,5 +1,5 @@
 <!--
-.. title: Preliminary schedule
+.. title: Schedule
 .. slug: schedule
 .. date: 2021-05-14 13:14:47 UTC
 .. tags: 
