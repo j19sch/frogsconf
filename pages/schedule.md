@@ -5,7 +5,7 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: 
+.. description: Friends of Good Software (FroGS) open space conference - schedule
 .. type: text
 -->
 
