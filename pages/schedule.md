@@ -9,9 +9,7 @@
 .. type: text
 -->
 
-
-All times are in Central European Time (CET), i.e. UTC+1.
-
+*All times are in Central European Time (CET), i.e. UTC+1.*
 
 ### <a name="schedule-evening"></a>Wednesday 2 March 2022
 <a href="https://localschedule.netlify.app/#v2%3A%7B%22name%22%3A%22FroGS%20conf%20Wednesday%22%2C%22day%22%3A%222022-03-02%22%2C%22tz%22%3A%22Europe%2FAmsterdam%22%2C%22sessions%22%3A%7B%221930%22%3A%22Welcome%20%26%20warm-up%22%2C%221945%22%3A%22Track%201%3A%20Lean%20coffee%20%2F%2F%20Track%202%3A%20Fun%20starts%22%2C%222045%22%3A%22The%20fun%20continues%22%7D%7D" target="_blank">Schedule in your time zone</a>
