@@ -10,11 +10,11 @@
 -->
 
 
-All times are in Central European Time (CEST), i.e. UTC+2.
+All times are in Central European Time (CET), i.e. UTC+1.
 
 
-### <a name="schedule-evening"></a>Friday 3 September
-<a href="https://localschedule.netlify.app/#eyJuYW1lIjoiRnJvR1MgY29uZiBGcmlkYXkiLCJkYXkiOiIyMDIxLTA5LTAzIiwidHoiOiJFdXJvcGUvQW1zdGVyZGFtIiwic2Vzc2lvbnMiOnsiMTkwMCI6Ildhcm0tdXBzICYgZ2V0dGluZyB0byBrbm93IGVhY2ggb3RoZXIiLCIxOTE1IjoiQ29uZmVyZW5jZSBpbnN0cnVjdGlvbnMiLCIxOTQ1IjoiQnJlYWsiLCIyMDAwIjoiVHJhY2sgMTogTGVhbiBjb2ZmZWUgLy8gVHJhY2sgMjogRnVuIHN0YXJ0cyIsIjIxMDAiOiJUaGUgZnVuIGNvbnRpbnVlcyJ9fQ" target="_blank">Schedule in your time zone</a>
+### <a name="schedule-evening"></a>Wednesday 2 March 2022
+<a href="https://localschedule.netlify.app/#v2%3A%7B%22name%22%3A%22FroGS%20conf%20Wednesday%22%2C%22day%22%3A%222022-03-02%22%2C%22tz%22%3A%22Europe%2FAmsterdam%22%2C%22sessions%22%3A%7B%221930%22%3A%22Welcome%20%26%20warm-up%22%2C%221945%22%3A%22Track%201%3A%20Lean%20coffee%20%2F%2F%20Track%202%3A%20Fun%20starts%22%2C%222045%22%3A%22The%20fun%20continues%22%7D%7D" target="_blank">Schedule in your time zone</a>
 
 <table class="table table-sm" style="max-width:600px">
   <thead class="thead-light">
@@ -24,36 +24,28 @@ All times are in Central European Time (CEST), i.e. UTC+2.
     </tr>
   </thead>
   <tbody>
-    <tr>
-  		<td>19:00</td>
-  		<td>Warm-ups & getting to know each other</td>
-    </tr>
     <tr class="sched-green">
-      <td>19:15</td>
-      <td>Conference instructions</td>
-    </tr>
-    <tr>
-      <td>19:45</td>
-      <td>Break</td>
+  		<td>19:30</td>
+  		<td>Welcome & warm-up</td>
     </tr>
     <tr class="sched-purple">
-      <td>20:00</td>
+      <td>19:45</td>
       <td>Track 1: Lean coffee</td>
     </tr>
     <tr>
-      <td>20:00</td>
+      <td>19:45</td>
       <td>Track 2: Fun starts</td>
     </tr>
     <tr>
-      <td>21:00</td>
+      <td>20:45</td>
       <td>The fun continues</td>
     </tr>
   </tbody>
 </table>
 
 
-### <a name="schedule-conference"></a>Saturday 4 September
-<a href="https://localschedule.netlify.app/#eyJuYW1lIjoiRnJvR1MgY29uZiBTYXR1cmRheSIsImRheSI6IjIwMjEtMDktMDQiLCJ0eiI6IkV1cm9wZS9BbXN0ZXJkYW0iLCJzZXNzaW9ucyI6eyI4MzAiOiJXYWxrIGluICYgU2hhcmVkIEJyZWFrZmFzdCIsIjkwMCI6IldlbGNvbWUgJiBJbnN0cnVjdGlvbnMiLCI5MzAiOiJNYXJrZXRwbGFjZSAtIERldGVybWluaW5nIG91ciBzZXNzaW9ucyIsIjEwMzAiOiJJbnRlcmFjdGl2ZSBzZXNzaW9ucyAtIFJvdW5kIDEiLCIxMTE1IjoiQnJlYWsiLCIxMTMwIjoiSW50ZXJhY3RpdmUgc2Vzc2lvbnMgLSBSb3VuZCAyIiwiMTIxNSI6Ikx1bmNoIiwiMTMxNSI6Ik1hcmtldHBsYWNlIC0gRGV0ZXJtaW5pbmcgb3VyIHNlc3Npb25zIiwiMTM0NSI6IkludGVyYWN0aXZlIHNlc3Npb25zIC0gUm91bmQgMyIsIjE0MzAiOiJCcmVhayIsIjE0NDUiOiJJbnRlcmFjdGl2ZSBzZXNzaW9ucyAtIFJvdW5kIDQiLCIxNTMwIjoiQnJlYWsiLCIxNTQ1IjoiSW50ZXJhY3RpdmUgc2Vzc2lvbnMgLSBSb3VuZCA1IiwiMTYzMCI6IkJyZWFrIiwiMTY0NSI6IlJldHJvc3BlY3RpdmUgJiBDbG9zaW5nIiwiMTcxNSI6IlZpcnR1YWwgZHJpbmtzICYgZ2FtZXMifX0=" target="_blank">Schedule in your time zone</a>
+### <a name="schedule-conference"></a>Saturday 5 March 2022
+<a href="https://localschedule.netlify.app/#v2%3A%7B%22name%22%3A%22FroGS%20conf%20Saturday%22%2C%22day%22%3A%222022-03-05%22%2C%22tz%22%3A%22Europe%2FAmsterdam%22%2C%22sessions%22%3A%7B%22830%22%3A%22Walk%20in%20%26%20Shared%20Breakfast%22%2C%22900%22%3A%22Welcome%20%26%20Instructions%22%2C%22930%22%3A%22Marketplace%20-%20Determining%20our%20sessions%22%2C%221030%22%3A%22Interactive%20sessions%20-%20Round%201%22%2C%221115%22%3A%22Break%22%2C%221130%22%3A%22Interactive%20sessions%20-%20Round%202%22%2C%221215%22%3A%22Lunch%22%2C%221315%22%3A%22Marketplace%20-%20Determining%20our%20sessions%22%2C%221345%22%3A%22Interactive%20sessions%20-%20Round%203%22%2C%221430%22%3A%22Break%22%2C%221445%22%3A%22Interactive%20sessions%20-%20Round%204%22%2C%221530%22%3A%22Break%22%2C%221545%22%3A%22Interactive%20sessions%20-%20Round%205%22%2C%221630%22%3A%22Break%22%2C%221645%22%3A%22Retrospective%20%26%20Closing%22%7D%7D" target="_blank">Schedule in your time zone</a>
 
 <table class="table table-sm" style="max-width:600px">
   <thead class="thead-light">
@@ -122,10 +114,6 @@ All times are in Central European Time (CEST), i.e. UTC+2.
     <tr class="sched-green">
       <td>16:45</td>
       <td>Retrospective & Closing</td>
-    </tr>
-    <tr>
-      <td>17:15</td>
-      <td>Virtual drinks & games</td>
     </tr>
   </tbody>
 </table>
