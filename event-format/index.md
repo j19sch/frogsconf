@@ -17,7 +17,7 @@ In this format, __attendees are also session contributors__. Anyone who wants to
 
 At the beginning of the conference, we will go over the open space principles and rules to make sure everybody knows how the conference is run.
 
-We expect to use [Zoom](https://zoom.us/) and [Miro](https://miro.com/) as our main conference tools. We use [Slack](http://slack.com/) for pre-, side- and post conference discussions. You will be invited to our Slack channel before the conference.
+We expect to use [Welo](https://www.welo.space/) and [Miro](https://miro.com/) as our main conference tools. We use [Slack](http://slack.com/) for pre-, side- and post conference discussions. You will be invited to our Slack channel before the conference.
 
 
 ## Open Space conferences
