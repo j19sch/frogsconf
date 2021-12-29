@@ -11,8 +11,8 @@
 
 *All times are in Central European Time (CET), i.e. UTC+1.*
 
-### <a name="schedule-evening"></a>Wednesday 2 March 2022
-<a href="https://localschedule.netlify.app/#v2%3A%7B%22name%22%3A%22FroGS%20conf%20Wednesday%22%2C%22day%22%3A%222022-03-02%22%2C%22tz%22%3A%22Europe%2FAmsterdam%22%2C%22sessions%22%3A%7B%221930%22%3A%22Welcome%20%26%20warm-up%22%2C%221945%22%3A%22Track%201%3A%20Lean%20coffee%20%2F%2F%20Track%202%3A%20Fun%20starts%22%2C%222045%22%3A%22The%20fun%20continues%22%7D%7D" target="_blank">Schedule in your time zone</a>
+### <a name="schedule-evening"></a>Wednesday 9 March 2022
+<a href="https://localschedule.netlify.app/#v2%3A%7B%22name%22%3A%22FroGS%20conf%20Wednesday%22%2C%22day%22%3A%222022-03-09%22%2C%22tz%22%3A%22Europe%2FAmsterdam%22%2C%22sessions%22%3A%7B%221930%22%3A%22Welcome%20%26%20warm-up%22%2C%221945%22%3A%22Track%201%3A%20Lean%20coffee%20%2F%2F%20Track%202%3A%20Fun%20starts%22%2C%222045%22%3A%22The%20fun%20continues%22%7D%7D" target="_blank">Schedule in your time zone</a>
 
 <table class="table table-sm" style="max-width:600px">
   <thead class="thead-light">
@@ -42,8 +42,8 @@
 </table>
 
 
-### <a name="schedule-conference"></a>Saturday 5 March 2022
-<a href="https://localschedule.netlify.app/#v2%3A%7B%22name%22%3A%22FroGS%20conf%20Saturday%22%2C%22day%22%3A%222022-03-05%22%2C%22tz%22%3A%22Europe%2FAmsterdam%22%2C%22sessions%22%3A%7B%22830%22%3A%22Walk%20in%20%26%20Shared%20Breakfast%22%2C%22900%22%3A%22Welcome%20%26%20Instructions%22%2C%22930%22%3A%22Marketplace%20-%20Determining%20our%20sessions%22%2C%221030%22%3A%22Interactive%20sessions%20-%20Round%201%22%2C%221115%22%3A%22Break%22%2C%221130%22%3A%22Interactive%20sessions%20-%20Round%202%22%2C%221215%22%3A%22Lunch%22%2C%221315%22%3A%22Marketplace%20-%20Determining%20our%20sessions%22%2C%221345%22%3A%22Interactive%20sessions%20-%20Round%203%22%2C%221430%22%3A%22Break%22%2C%221445%22%3A%22Interactive%20sessions%20-%20Round%204%22%2C%221530%22%3A%22Break%22%2C%221545%22%3A%22Interactive%20sessions%20-%20Round%205%22%2C%221630%22%3A%22Break%22%2C%221645%22%3A%22Retrospective%20%26%20Closing%22%7D%7D" target="_blank">Schedule in your time zone</a>
+### <a name="schedule-conference"></a>Saturday 12 March 2022
+<a href="https://localschedule.netlify.app/#v2%3A%7B%22name%22%3A%22FroGS%20conf%20Saturday%22%2C%22day%22%3A%222022-03-12%22%2C%22tz%22%3A%22Europe%2FAmsterdam%22%2C%22sessions%22%3A%7B%22830%22%3A%22Walk%20in%20%26%20Shared%20Breakfast%22%2C%22900%22%3A%22Welcome%20%26%20Instructions%22%2C%22930%22%3A%22Marketplace%20-%20Determining%20our%20sessions%22%2C%221030%22%3A%22Interactive%20sessions%20-%20Round%201%22%2C%221115%22%3A%22Break%22%2C%221130%22%3A%22Interactive%20sessions%20-%20Round%202%22%2C%221215%22%3A%22Lunch%22%2C%221315%22%3A%22Marketplace%20-%20Determining%20our%20sessions%22%2C%221345%22%3A%22Interactive%20sessions%20-%20Round%203%22%2C%221430%22%3A%22Break%22%2C%221445%22%3A%22Interactive%20sessions%20-%20Round%204%22%2C%221530%22%3A%22Break%22%2C%221545%22%3A%22Interactive%20sessions%20-%20Round%205%22%2C%221630%22%3A%22Break%22%2C%221645%22%3A%22Retrospective%20%26%20Closing%22%7D%7D" target="_blank">Schedule in your time zone</a>
 
 <table class="table table-sm" style="max-width:600px">
   <thead class="thead-light">
