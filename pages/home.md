@@ -21,7 +21,9 @@
 ---
 
 ## What is FroGS conf?
-FroGS conf, or "Friends of Good Software conference" in full, is an unconference. It's a participant-driven meeting for and by people with an interest in quality and software. The organizers provide a basic structure; the rest is up to all of us, the participants. You can find more information on facilitating a session on our [Event Format page](/event-format/#facilitating-a-session).
+FroGS conf, or "Friends of Good Software conference" in full, is an unconference. It's a participant-driven meeting for and by people with an interest in quality and software. The organizers provide a basic structure; the rest is up to all of us, the participants.
+
+We've also created a [video explaining the basics](https://www.youtube.com/watch?v=c57sw2icUjI) of FroGS conf. And on our [Event Format page](/event-format/#facilitating-a-session) you can find some tips & tricks on facilitation a session.
 
 
 ### When is it?
