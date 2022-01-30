@@ -80,12 +80,14 @@ Be creative! Create your own session with the stuff you want to talk about, lear
 
 ### Possible session formats
 
-- A session can be a presentation or demo with plenty of time for Q&A. 
+For the session format you have quite some options:
+
+- It can be a presentation or demo with plenty of time for Q&A.
 - It can be a group discussion after a 5-minute introduction of a problem or of a question.
-- It can be a coaching session, either 1-on-1 with observers, or one person being coached by a group. 
-- It can be a workshop. 
-- It can be an experiment or shared learning experience. 
-- It can be asking feedback on an early version of something you're working on. 
+- It can be a coaching session, either 1-on-1 with observers, or one person being coached by a group.
+- It can be a workshop.
+- It can be an experiment or shared learning experience.
+- It can be asking feedback on an early version of something you're working on.
 - Or it can be many other things.
 
 Again, be creative! Find a format that works for you and for what you want to get out of the session.
