@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://frogsconf.nl/</loc>
-  <lastmod>2021-12-28T11:56:00Z</lastmod>
+  <lastmod>2022-01-29T09:51:00Z</lastmod>
  </url>
  <url>
   <loc>https://frogsconf.nl/archive.html</loc>
-  <lastmod>2021-12-28T11:56:00Z</lastmod>
+  <lastmod>2022-01-29T09:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://frogsconf.nl/blog/</loc>
@@ -36,5 +36,9 @@
  <url>
   <loc>https://frogsconf.nl/schedule/</loc>
   <lastmod>2021-12-28T11:56:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://frogsconf.nl/session-facilitation/</loc>
+  <lastmod>2022-01-29T09:51:00Z</lastmod>
  </url>
 </urlset>

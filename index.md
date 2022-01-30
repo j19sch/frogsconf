@@ -23,6 +23,8 @@
 ## What is FroGS conf?
 FroGS conf, or "Friends of Good Software conference" in full, is an unconference. It's a participant-driven meeting for and by people with an interest in quality and software. The organizers provide a basic structure; the rest is up to all of us, the participants.
 
+We've also created a [video explaining the basics](https://www.youtube.com/watch?v=c57sw2icUjI) of FroGS conf. And on our [Event Format page](/event-format/#facilitating-a-session) you can find some tips & tricks on facilitation a session.
+
 
 ### When is it?
 
@@ -30,12 +32,12 @@ Wednesday 9 March 2022 in the evening (lean coffee, social hangout)
 Saturday 12 March 2022 (unconference)
 
 
-You can find the schedule [here](link://slug/schedule).
+Details can be found on our [Schedule page](link://slug/schedule).
 
 
 ### How can I register?
 
-If you wish to attend, please register [here](link://slug/register). This virtual edition is free.
+If you wish to attend, please go to the [Registration page](link://slug/register). This virtual edition is free.
 
 
 ### Code of Conduct: the short version
@@ -44,7 +46,7 @@ We want FroGS conf to be a welcoming and safe space, where everyone can particip
 
 The short version: Be a respectful human person. Let other people be themselves. Do not ruin anyone else’s experience. Keep an open mind. If you see or experience something unacceptable, respectfully ask for it to stop. The FroGS conf organizers will support you.
 
-Read our full Code of Conduct [here](link://slug/code-of-conduct).
+Read the full version on our [Code of Conduct page](link://slug/code-of-conduct).
 
 ---
 
