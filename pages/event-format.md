@@ -50,26 +50,55 @@ If you want to know more about how to prepare for an unconference, you can read 
 
 ---
 
-## Possible session topics
+## <a name="facilitating-a-session"></a> Facilitating a session
 
-Since it’s called “Friends of Good Software conference” we do expect topics to be related to the fields of sotware and quality:
+We have a dedicated channel in our Slack space called [`#friends-of-good-sessions`](https://frogsconf.slack.com/archives/C02QF5ME277) to support you in facilitating a session. So if you want feedback on your ideas, or are looking for a co-facilitator, go there and ask!
+
+### Possible session topics
+
+Since the unconference is called “Friends of Good Software conference” we'd like to see sessions related to the themes of software and quality:
 
 - test approach and strategy
-- oracles and heuristics
-- testability
-- documentation
-- note taking
 - quality and agile, scrum, waterfall, XP, ...
-- automation in building, testing, deploying, ...
-- tools
-- risk analysis
+- DevOps, continuous integration, continuous delivery
+- oracles and heuristics
 - storytelling
 - modelling & visualisation
+- testability
+- documentation
+- automation in building, testing, deploying, ...
+- interesting tools, bad tools, fun tools, tools you wonder what they're for
+- risk analysis
+- how to hire people
+- organizational design
 - user story refinement
-- communication skills
-- collaboration skills
-- problems you need help with
-- how to hire new people
+- communication and collaboration skills
 - ...
 
 Be creative! Create your own session with the stuff you want to talk about, learn more about or let others help you solve a problem.
+
+
+### Possible session formats
+
+For the session format you have quite some options:
+
+- It can be a presentation or demo with plenty of time for Q&A.
+- It can be a group discussion after a 5-minute introduction of a problem or of a question.
+- It can be a coaching session, either 1-on-1 with observers, or one person being coached by a group.
+- It can be a workshop.
+- It can be an experiment or shared learning experience.
+- It can be asking feedback on an early version of something you're working on.
+- Or it can be many other things.
+
+Again, be creative! Find a format that works for you and for what you want to get out of the session.
+
+
+### Facilitation tips & tricks
+- have a clear picture of your topic
+- pick a format you feel comfortable with
+- think about how you want to use Miro or other supporting tools
+- think about roles in your session: do you need a note-taker or observer(s)?
+- share both the topic and the format during the marketplace
+- consider energy levels when picking a slot for your session, e.g. do hard things in the morning
+- be there for sessions you proposed
+- don't hesitate to ask the group or a specific individual to take up a role
