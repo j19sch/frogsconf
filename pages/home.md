@@ -15,7 +15,7 @@
 ---
 
 <div style="display:flex; justify-content:center; align-items:center;">
-	<img class="banner" src="/assets/images/frogsconf-banner-mar2022.png"/>
+	<img class="banner" src="/assets/images/banners/frogsconf-banner-mar2022.png"/>
 </div>
 
 ---
