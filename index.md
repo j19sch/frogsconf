@@ -18,6 +18,11 @@
 	<img class="banner" src="/assets/images/banners/frogsconf-banner-mar2022.png"/>
 </div>
 
+<div style="display:flex; justify-content:center; align-items:center; margin-top:0.7rem;">
+	<a href="https://ko-fi.com/frogsconf" target="_blank" style="font-family: 'PT Mono', sans-serif;">support us on Ko-fi</a>
+	<img src="/assets/images/Kofi_logo_RGB_Outline.png" style="height:1rem; margin-left:0.5rem;"/>
+</div>
+
 ---
 
 ## What is FroGS conf?
