@@ -13,8 +13,8 @@
 
 ### Let us know you’re coming
 
-We have decided to keep this virtual edition free of charge, but you do need to register in order to participate.
+Follow the link below to register for our lean coffee on Wednesday 8 June. 
 
-<button><a href="https://forms.gle/PyP3uxjCeLasDkQG6" target="_blank">Register here!</a></button>
+<button><a href="https://forms.gle/vJF4sajf1iAwSBDC9" target="_blank">Register here!</a></button>
 
-We'll send you more details closer to the event.
+Virtual editions will always be free of charge, but you do need to register in order to participate. We'll only use your email to send you links to the Welo video conferencing tool and Miro collaboration tool the week of the event.

@@ -10,40 +10,42 @@
 .. hidetitle: true
 -->
 
-<h1 class="align-center">Friends of Good Software<br>- Virtual Edition -<br>Wednesday 9 March (evening) and<br>Saturday 12 March 2022</h1>
+# Friends of Good Software
+# Lean Coffee: Wednesday 8 June 7:30pm CEST 
 
 ---
 
-<div style="display:flex; justify-content:center; align-items:center;">
-	<img class="banner" src="/assets/images/banners/frogsconf-banner-mar2022.png"/>
-</div>
+## What is FroGS Conf?
 
-<div style="display:flex; justify-content:center; align-items:center; margin-top:0.7rem;">
-	<a href="https://ko-fi.com/frogsconf" target="_blank" style="font-family: 'PT Mono', sans-serif;">support us on Ko-fi</a>
-	<img src="/assets/images/Kofi_logo_RGB_Outline.png" style="height:1rem; margin-left:0.5rem;"/>
-</div>
+<img width="300px" src="/assets/images/frog-color-outline.png" style="float:right;"/>
 
----
+Friends of Good Software Conference (FroGS Conf) is an annual online unconference and quarterly lean coffee. It's a participant-driven meeting for and by people with an interest in quality and software. The organizers provide a basic structure; the rest is up to all of us, the participants.
 
-## What is FroGS conf?
-FroGS conf, or "Friends of Good Software conference" in full, is an unconference. It's a participant-driven meeting for and by people with an interest in quality and software. The organizers provide a basic structure; the rest is up to all of us, the participants.
-
-We've also created a [video explaining the basics](https://www.youtube.com/watch?v=c57sw2icUjI) of FroGS conf. And on our [Event Format page](/event-format/#facilitating-a-session) you can find some tips & tricks on facilitation a session.
+We've created a [video explaining our unconference](https://www.youtube.com/watch?v=c57sw2icUjI). You can find some tips & tricks for facilitating an unconference session on our [Event Format page](/event-format/#facilitating-a-session). Here's an explanation of the [lean coffee format](http://leancoffee.org/). 
 
 
 ### When is it?
 
-Wednesday 9 March 2022 in the evening (lean coffee, social hangout)  
-Saturday 12 March 2022 (unconference)
+- Next Lean Coffee: Wednesday 8 June starting at 7:30pm CEST
+- Next Unconference: Saturday 17 September starting at 10am CEST 
 
-
-Details can be found on our [Schedule page](link://slug/schedule).
-
+Details can be found on our [Schedule page](link://slug/schedule). For those already in the Netherlands, we'll grab real-life drinks on Friday, 16 September before the online event.
 
 ### How can I register?
 
 If you wish to attend, please go to the [Registration page](link://slug/register). This virtual edition is free.
 
+### How can I support FroGS Conf with money? 
+
+<img src="/assets/images/Kofi_logo_RGB_Outline.png" style="height:1rem; margin-right:0.5rem;"/>We're accepting [donations at Ko-fi](https://ko-fi.com/frogsconf). The money will go towards the cost of mailing out FroGS stickers and supporting any future in-person gatherings. 
+
+### Which tools do you use?
+
+We've been using [Welo](https://www.welo.space/) for video conferencing. It provides a different atmosphere than many video conferencing tools. You can see which participants are in different rooms and move around to join them. We're grateful to Welo for allowing us to barter for the use of their tool in exchange for bug reports. 
+
+For online whiteboarding, lean coffee topic picking, and unconference schedule planning, we've used a paid instance of [Miro](https://miro.com/). 
+
+For scheduling across time zones, we use [https://localschedule.netlify.app/](https://localschedule.netlify.app/) built by our our steadfast supporter and originator of the FroGS name, [Markus Tacker](https://twitter.com/coderbyheart). 
 
 ### Code of Conduct: the short version
 
@@ -55,9 +57,7 @@ Read the full version on our [Code of Conduct page](link://slug/code-of-conduct)
 
 ---
 
-## What can you expect?
-
-Conferring & collaborating with people passionate about quality and software!
+## What's it like to be at FroGS Conf?
 
 ### Meet inspiring people
 Meet other brilliant and passionate minds. Get inspired. Connect and expand your network. 
