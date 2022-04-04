@@ -15,7 +15,7 @@
 
 ---
 
-## What is FroGS Conf?
+### What is FroGS Conf?
 
 <img width="300px" src="/assets/images/frog-color-outline.png" style="float:right;"/>
 
@@ -31,13 +31,18 @@ We've created a [video explaining our unconference](https://www.youtube.com/watc
 
 Details can be found on our [Schedule page](link://slug/schedule). For those already in the Netherlands, we'll grab real-life drinks on Friday, 16 September before the online event.
 
+---
+
+
 ### How can I register?
 
-If you wish to attend, please go to the [Registration page](link://slug/register). This virtual edition is free.
+If you wish to attend, please go to the [Registration page](link://slug/register). Attendance is free.
 
-### How can I support FroGS Conf with money? 
+### How can I support FroGS Conf?
 
-<img src="/assets/images/Kofi_logo_RGB_Outline.png" style="height:1rem; margin-right:0.5rem;"/>We're accepting [donations at Ko-fi](https://ko-fi.com/frogsconf). The money will go towards the cost of mailing out FroGS stickers and supporting any future in-person gatherings. 
+By participating in one of our events! Or even better by bringing a topic to an event.
+
+<img src="/assets/images/Kofi_logo_RGB_Outline.png" style="height:1rem; margin-right:0.5rem;"/> We're also accepting [donations at Ko-fi](https://ko-fi.com/frogsconf). The money will go towards the cost of mailing out FroGS stickers and supporting any future in-person gatherings. 
 
 ### Which tools do you use?
 
@@ -45,7 +50,7 @@ We've been using [Welo](https://www.welo.space/) for video conferencing. It prov
 
 For online whiteboarding, lean coffee topic picking, and unconference schedule planning, we've used a paid instance of [Miro](https://miro.com/). 
 
-For scheduling across time zones, we use [https://localschedule.netlify.app/](https://localschedule.netlify.app/) built by our our steadfast supporter and originator of the FroGS name, [Markus Tacker](https://twitter.com/coderbyheart). 
+For scheduling across time zones, we use [Local Schedule](https://localschedule.netlify.app/) built by our our steadfast supporter and originator of the FroGS name, [Markus Tacker](https://twitter.com/coderbyheart). 
 
 ### Code of Conduct: the short version
 
@@ -56,24 +61,6 @@ The short version: Be a respectful human person. Let other people be themselves.
 Read the full version on our [Code of Conduct page](link://slug/code-of-conduct).
 
 ---
-
-## What's it like to be at FroGS Conf?
-
-### Meet inspiring people
-Meet other brilliant and passionate minds. Get inspired. Connect and expand your network. 
-
-### Join hands-on sessions & group discussions
-Collect new ideas about quality and working in IT. Discuss and try out new techniques. Fill your mind with ideas, practices, and activities you can try out in your teams back at work.
-
-### Facilitate or participate in workshops and conversations
-Discuss your problems or share your new ideas. Get feedback from others. Maybe you did some research you are enthusiastic about? Let other people know!
-
-### Learn & work together
-Learn new skills by collaborating, pairing or ensembling with others.
-
-
----
-
 
 ## FroGS conference team
 

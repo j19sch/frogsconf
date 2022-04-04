@@ -13,7 +13,7 @@
 
 ### Let us know you’re coming
 
-Follow the link below to register for our lean coffee on Wednesday 8 June. 
+Follow the link below to register for our **lean coffee on Wednesday 8 June**. 
 
 <button><a href="https://forms.gle/vJF4sajf1iAwSBDC9" target="_blank">Register here!</a></button>
 

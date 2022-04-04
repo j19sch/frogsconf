@@ -9,10 +9,12 @@
 .. type: text
 -->
 
-*All times are in Central European Time (CET), i.e. UTC+1.*
+*All times are in Central European (Summer) Time, so CET (UTC+1) or CEST (UTC+2) depending on the time of year.*
 
-### <a name="schedule-evening"></a>Wednesday 8 June 2022
-Stay tuned for the final schedule and calendar invitation in your time zone. The start time won't change but the end time might.
+---
+
+### <a name="schedule-evening"></a>Wednesday 8 June 2022 - Lean Coffee
+Get the schedule in your timezone or an `.ics` file at [Local Schedule](https://localschedule.netlify.app/#v2%3A%7B%22name%22%3A%22FroGS%20Conf%20Lean%20Coffee%22%2C%22day%22%3A%222022-06-08%22%2C%22tz%22%3A%22Europe%2FAmsterdam%22%2C%22sessions%22%3A%7B%221930%22%3A%22Welcome%20%26%20warm-up%22%2C%221940%22%3A%22Lean%20coffee%20begins%22%2C%222030%22%3A%22Lean%20coffee%20concludes%22%7D%7D).
 
 <table class="table table-sm" style="max-width:600px">
   <thead class="thead-light">
@@ -37,8 +39,9 @@ Stay tuned for the final schedule and calendar invitation in your time zone. The
   </tbody>
 </table>
 
+---
 
-### <a name="schedule-conference"></a>Saturday 17 September 2022
+### <a name="schedule-conference"></a>Saturday 17 September 2022 - Unconference
 
 Stay tuned for the final schedule and calendar invitation in your time zone. The start time won't change but the end time might.
 
