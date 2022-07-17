@@ -41,7 +41,7 @@ Get the schedule in your timezone or an `.ics` file at [Local Schedule](https://
 
 ---
 
-### <a name="schedule-conference"></a>Saturday 17 September 2022 - Unconference
+### <a name="schedule-conference"></a>Thursday 8 September 2022 - Unconference
 
 Stay tuned for the final schedule and calendar invitation in your time zone. The start time won't change but the end time might.
 
