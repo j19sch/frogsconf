@@ -11,7 +11,7 @@
 -->
 
 # Friends of Good Software
-# Lean Coffee: Wednesday 8 June 7:30pm CEST 
+# Unconference: Thursday 8 September 10am CEST
 
 ---
 
@@ -26,10 +26,10 @@ We've created a [video explaining our unconference](https://www.youtube.com/watc
 
 ### When is it?
 
-- Next Lean Coffee: Wednesday 8 June starting at 7:30pm CEST
-- Next Unconference: Saturday 17 September starting at 10am CEST 
+- Next Unconference: Thursday 8 September starting at 10am CEST
+- Next Lean Coffee: tbd
 
-Details can be found on our [Schedule page](link://slug/schedule). For those already in the Netherlands, we'll grab real-life drinks on Friday, 16 September before the online event.
+Details can be found on our [Schedule page](link://slug/schedule). For those already in the Netherlands, we'll grab real-life drinks on Friday, 16 September ~~before~~ after the online event.
 
 ---
 
