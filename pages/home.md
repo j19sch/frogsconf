@@ -1,7 +1,7 @@
 <!--
 .. title: FroGS conf
 .. slug: index
-.. date: 2022-07-27
+.. date: 2022-07-27 17:45:47 UTC
 .. tags: 
 .. category: 
 .. link: 
