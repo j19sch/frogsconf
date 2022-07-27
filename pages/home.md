@@ -11,7 +11,7 @@
 -->
 
 # Friends of Good Software
-# Unconference: Thursday 8 September 10am CEST
+# Thursday, 8 September 2022
 
 ---
 
@@ -26,10 +26,9 @@ We've created a [video explaining our unconference](https://www.youtube.com/watc
 
 ### When is it?
 
-- Next Unconference: Thursday 8 September starting at 10am CEST
-- Next Lean Coffee: tbd
+- Next Unconference: Thursday 8 September starting at 10am CEST 
 
-Details can be found on our [Schedule page](link://slug/schedule). For those already in the Netherlands, we'll grab real-life drinks on Friday, 16 September ~~before~~ after the online event.
+Details can be found on our [Schedule page](link://slug/schedule). For those already in the Netherlands, we'll grab real-life drinks on Friday, 9 September in Utrecht the evening after the online event.
 
 ---
 
