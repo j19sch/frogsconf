@@ -6,6 +6,14 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
+  <loc>https://frogsconf.nl/</loc>
+  <lastmod>2022-07-27T16:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://frogsconf.nl/archive.html</loc>
+  <lastmod>2022-07-27T16:38:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://frogsconf.nl/blog/</loc>
   <lastmod>2022-04-02T08:15:00Z</lastmod>
  </url>
