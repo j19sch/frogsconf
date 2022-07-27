@@ -5,7 +5,7 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: Friends of Good Software (FroGS) open space conference - Thursday 8 September 2022
+.. description: Friends of Good Software (FroGS) open space conference - Thursday & Friday, 8 & 9 September 2022
 .. type: text
 .. hidetitle: true
 -->
