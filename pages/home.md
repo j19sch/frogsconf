@@ -6,7 +6,6 @@
 .. category: 
 .. link: 
 .. description: Friends of Good Software (FroGS) - Thursday 8 Sept 2022 (open space conference) and Friday 9 Sept 2022 (drinks in Utrecht)
-.. previewimage: /assets/images/frog-color-outline.png
 .. type: text
 .. hidetitle: true
 -->
