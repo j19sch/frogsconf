@@ -1,11 +1,11 @@
 <!--
 .. title: FroGS conf
 .. slug: index
-.. date: 2021-05-14 12:45:47 UTC
+.. date: 2022-07-27 17:45:47 UTC
 .. tags: 
 .. category: 
 .. link: 
-.. description: Friends of Good Software (FroGS) open space conference - Wednesday 9 and Saturday 12 March 2022 (virtual edition)
+.. description: Friends of Good Software (FroGS) - Thursday 8 Sept 2022 (open space conference) and Friday 9 Sept 2022 (drinks in Utrecht)
 .. type: text
 .. hidetitle: true
 -->
