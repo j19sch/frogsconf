@@ -30,6 +30,8 @@ We've created a [video explaining our unconference](https://www.youtube.com/watc
 
 Details can be found on our [Schedule page](link://slug/schedule). For those already in the Netherlands, we'll grab real-life drinks on Friday, 9 September in Utrecht the evening after the online event.
 
+If you want to know how long we've been at this and who has helped organize in the past, visit our [previous editions](link://slug/previous-editions) page.
+
 ---
 
 
