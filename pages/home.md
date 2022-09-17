@@ -30,7 +30,7 @@ We've created a [video explaining our unconference](https://www.youtube.com/watc
 
 Details can be found on our [Schedule page](link://slug/schedule). For those already in the Netherlands, we'll grab real-life drinks on Friday, 9 September in Utrecht the evening after the online event.
 
-If you want to know how long we've been at this and who has helped organize in the past, visit our [previous editions](link://slug/previous-editions) page.
+If you want to know how long we've been doing this and who helped organize in the past, visit our [previous editions](link://slug/previous-editions) page.
 
 ---
 
@@ -66,13 +66,6 @@ Read the full version on our [Code of Conduct page](link://slug/code-of-conduct)
 ## FroGS conference team
 
 <div style="display:flex; justify-content:center; flex-wrap:wrap;">
-	<div style="width:250px; margin:25px;">
-		<img class="d-block ml-auto mr-auto rounded-circle" style="width:70%" src="/assets/images/cirilo-300x300.jpeg"/>
-		<p class="text-center">Cirilo Wortel
-			<a href="https://twitter.com/sietstweets" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
-			<a href="https://www.linkedin.com/in/cirilowortel/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
-		</p>
-	</div>
 	<div style="width:250px; margin:25px;">
 		<img class="d-block ml-auto mr-auto rounded-circle" style="width:70%" src="/assets/images/elizabeth-300x300.jpg"/>
 		<p class="text-center">Elizabeth Zagroba
