@@ -65,29 +65,29 @@ Read the full version on our [Code of Conduct page](link://slug/code-of-conduct)
 
 ## FroGS conference team
 
-<div style="display:flex; justify-content:center; flex-wrap:wrap;">
-	<div style="width:250px; margin:25px;">
+<div style="display:flex; justify-content:space-evenly; flex-wrap:wrap;">
+	<div style="width:250px; margin:20px;">
 		<img class="d-block ml-auto mr-auto rounded-circle" style="width:70%" src="/assets/images/elizabeth-300x300.jpg"/>
 		<p class="text-center">Elizabeth Zagroba
 			<a href="https://twitter.com/ezagroba" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/in/ezagroba/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
 		</p>
 	</div>
-	<div style="width:250px; margin:25px;">
+	<div style="width:250px; margin:20px;">
 		<img class="d-block ml-auto mr-auto rounded-circle" style="width:70%" src="/assets/images/huib5-300x298.jpg"/>
 		<p class="text-center">Huib Schoots
 			<a href="https://twitter.com/huibschoots" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/in/huibschoots/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
 		</p>
 	</div>
-	<div style="width:250px; margin:25px;">
+	<div style="width:250px; margin:20px;">
 		<img class="d-block ml-auto mr-auto rounded-circle" style="width:70%" src="/assets/images/joep-300x300.jpeg"/>
 		<p class="text-center">Joep Schuurkes
 			<a href="https://twitter.com/j19sch" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/in/joepschuurkes/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
 		</p>
 	</div>
-	<div style="width:250px; margin:25px;">
+	<div style="width:250px; margin:20px;">
 		<img class="d-block ml-auto mr-auto rounded-circle" style="width:70%" src="/assets/images/sanne-300x300.jpg"/>
 		<p class="text-center">Sanne Visser
 			<a href="https://twitter.com/simplysanne" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
