@@ -5,18 +5,13 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: Friends of Good Software (FroGS) - Thursday 8 Dec 2022 (lean coffee)
+.. description: Friends of Good Software (FroGS) - Thursday 8 Sept 2022 (open space conference) and Friday 9 Sept 2022 (drinks in Utrecht)
 .. type: text
 .. hidetitle: true
 -->
 
 # Friends of Good Software
-
-## Save the dates
-- Lean Coffee: Thursday 8 December 2022 4pm-5:30pm CET
-- Unconference: Saturday 11 March 2023 10am CET
-- Lean Coffee: TBD
-- Unconference: Saturday 9 September 2023 10am CEST
+# Thursday, 8 September 2022
 
 ---
 
@@ -24,21 +19,18 @@
 
 <img width="300px" src="/assets/images/frog-color-outline.png" style="float:right;"/>
 
-Friends of Good Software Conference (FroGS Conf) is an annual online unconference and quarterly lean coffee. It's a participant-driven meeting for and by people with an interest in software and quality. The organizers provide a basic structure; the rest is up to all of us, the participants.
+Friends of Good Software Conference (FroGS Conf) is an annual online unconference and quarterly lean coffee. It's a participant-driven meeting for and by people with an interest in quality and software. The organizers provide a basic structure; the rest is up to all of us, the participants.
 
 We've created a [video explaining our unconference](https://www.youtube.com/watch?v=c57sw2icUjI). You can find some tips & tricks for facilitating an unconference session on our [Event Format page](/event-format/#facilitating-a-session). Here's an explanation of the [lean coffee format](http://leancoffee.org/). 
 
 
 ### When is it?
 
-- Lean Coffee: Thursday 8 December 2022 4pm-5:30pm CET
-- Unconference: Saturday 11 March 2023 10am CET
-- Lean Coffee: TBD
-- Unconference: Saturday 9 September 2023 10am CEST
+- Next Unconference: Thursday 8 September starting at 10am CEST 
 
-We'll update our [Schedule page](link://slug/schedule) when we get closer to the events.
+Details can be found on our [Schedule page](link://slug/schedule). For those already in the Netherlands, we'll grab real-life drinks on Friday, 9 September in Utrecht the evening after the online event.
 
-If you want to know how long we've been doing this and who helped organize in the past, visit our [Previous editions](link://slug/previous-editions) page.
+If you want to know how long we've been doing this and who helped organize in the past, visit our [previous editions](link://slug/previous-editions) page.
 
 ---
 
