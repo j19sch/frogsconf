@@ -11,7 +11,11 @@
 -->
 
 # Friends of Good Software
-# Thursday, 8 September 2022
+
+## Save the dates
+- Lean Coffee: Thursday 8 December 2022 4pm-5:30pm CET
+- Unconference: Saturday 11 March 2023 10am CET
+- Unconference: Saturday 9 September 2023 10am CET
 
 ---
 
@@ -26,9 +30,11 @@ We've created a [video explaining our unconference](https://www.youtube.com/watc
 
 ### When is it?
 
-- Next Unconference: Thursday 8 September starting at 10am CEST 
+- Lean Coffee: Thursday 8 December 2022 4pm-5:30pm CET
+- Unconference: Saturday 11 March 2023 10am CET
+- Unconference: Saturday 9 September 2023 10am CET
 
-Details can be found on our [Schedule page](link://slug/schedule). For those already in the Netherlands, we'll grab real-life drinks on Friday, 9 September in Utrecht the evening after the online event.
+We'll update our [Schedule page](link://slug/schedule) when we get closer to the events.
 
 If you want to know how long we've been doing this and who helped organize in the past, visit our [previous editions](link://slug/previous-editions) page.
 
