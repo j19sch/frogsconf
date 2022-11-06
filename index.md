@@ -79,6 +79,7 @@ Read the full version on our [Code of Conduct page](link://slug/code-of-conduct)
 		<p class="text-center">Elizabeth Zagroba
 			<a href="https://twitter.com/ezagroba" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/in/ezagroba/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
+			<a href="https://chaos.social/@ez" target="_blank" rel="me"><i class="fab fa-mastodon" aria-hidden="true"></i></a>
 		</p>
 	</div>
 	<div style="width:250px; margin:20px;">
@@ -93,6 +94,7 @@ Read the full version on our [Code of Conduct page](link://slug/code-of-conduct)
 		<p class="text-center">Joep Schuurkes
 			<a href="https://twitter.com/j19sch" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 			<a href="https://www.linkedin.com/in/joepschuurkes/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
+			<a href="https://chaos.social/@joeposaurus" target="_blank" rel="me"><i class="fab fa-mastodon" aria-hidden="true"></i></a>
 		</p>
 	</div>
 	<div style="width:250px; margin:20px;">
