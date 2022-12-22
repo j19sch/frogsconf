@@ -1,7 +1,7 @@
 <!--
 .. title: Schedule
 .. slug: schedule
-.. date: 2021-05-14 13:14:47 UTC
+.. date: 2022-12-22 13:14:47 UTC
 .. tags: 
 .. category: 
 .. link: 
@@ -13,23 +13,76 @@
 
 ---
 
-### <a name="schedule-conference"></a>Thursday 8 December 2022 - Lean Coffee
+### <a name="schedule-conference"></a>Saturday 11 March 2023 - Unconference
 
-<a href="https://localschedule.netlify.app/#v2%3A%7B%22name%22%3A%22FroGS%20Lean%20Coffee%22%2C%22day%22%3A%222022-12-08%22%2C%22tz%22%3A%22Europe%2FAmsterdam%22%2C%22sessions%22%3A%7B%221600%22%3A%22start%20time%22%2C%221730%22%3A%22end%20time%22%7D%7D" target="_blank">Schedule in your time zone</a> (inc `.ics` calendar file)
+<a href="https://bit.ly/frogs-2023" target="_blank">Schedule in your time zone</a> (inc `.ics` calendar file)
 
 
 <table class="table table-sm" style="max-width:600px">
   <thead class="thead-light">
     <tr>
-      <th scope="col">Time</th>
+      <th scope="col">Start Time</th>
       <th scope="col">Activity</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>16:00 - 17:30</td>
-      <td>Lean Coffee</td>
+      <td>09:45</td>
+      <td>Walk in & Shared Breakfast</td>
+    </tr>
+    <tr class="sched-green">
+      <td>10:00</td>
+      <td>Welcome & Instructions</td>
+    </tr>
+    <tr class="sched-green">
+      <td>10:15</td>
+      <td>Marketplace – Determining our sessions</td>
+    </tr>
+    <tr class="sched-purple">
+      <td>11:00</td>
+      <td>Interactive sessions – Round 1</td>
+    </tr>
+    <tr>
+      <td>11:45</td>
+      <td>Break</td>
+    </tr>
+    <tr class="sched-purple">
+      <td>12:00</td>
+      <td>Interactive sessions – Round 2</td>
+    </tr>
+    <tr>
+      <td>12:45</td>
+      <td>Lunch</td>
+    </tr>
+    <tr class="sched-green">
+      <td>13:45</td>
+      <td>Marketplace – Determining our sessions</td>
+    </tr>
+    <tr class="sched-purple">
+      <td>14:15</td>
+      <td>Interactive sessions – Round 3</td>
+    </tr>
+    <tr>
+      <td>15:00</td>
+      <td>Break</td>
+    </tr>
+    <tr class="sched-purple">
+      <td>15:15</td>
+      <td>Interactive sessions – Round 4</td>
+    </tr>
+    <tr>
+      <td>16:00</td>
+      <td>Break</td>
+    </tr>
+    <tr class="sched-purple">
+      <td>16:15</td>
+      <td>Interactive sessions – Round 5</td>
+    </tr>
+    <tr class="sched-green">
+      <td>17:00</td>
+      <td>Retrospective & Closing</td>
     </tr>
   </tbody>
 </table>
 
+If you have a longer session, you can claim two slots during the marketplace.
