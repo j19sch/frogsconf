@@ -1,7 +1,7 @@
 <!--
 .. title: Previous editions
 .. slug: previous-editions
-.. date: 2022-09-16 13:14:47 UTC
+.. date: 2022-12-22 13:14:47 UTC
 .. tags: 
 .. category: 
 .. link: 
@@ -18,6 +18,7 @@
 - 28 September 2019 (in person, as TestCraftCamp)
 
 ## Lean coffees
+- 8 December 2022
 - 8 June 2022
 
 ---

@@ -1,11 +1,11 @@
 <!--
 .. title: FroGS conf
 .. slug: index
-.. date: 2022-07-27 17:45:47 UTC
+.. date: 2022-12-22 13:45:47 UTC
 .. tags: 
 .. category: 
 .. link: 
-.. description: Friends of Good Software (FroGS) - Thursday 8 Dec 2022 (lean coffee)
+.. description: Friends of Good Software (FroGS) - Saturday 11 March 2023 (unconference)
 .. type: text
 .. hidetitle: true
 -->
@@ -13,9 +13,7 @@
 # Friends of Good Software
 
 ## Save the dates
-- Lean Coffee: Thursday 8 December 2022 4pm-5:30pm CET
 - Unconference: Saturday 11 March 2023 10am CET
-- Lean Coffee: TBD
 - Unconference: Saturday 9 September 2023 10am CEST
 
 ---
@@ -31,9 +29,7 @@ We've created a [video explaining our unconference](https://www.youtube.com/watc
 
 ### When is it?
 
-- Lean Coffee: Thursday 8 December 2022 4pm-5:30pm CET
 - Unconference: Saturday 11 March 2023 10am CET
-- Lean Coffee: TBD
 - Unconference: Saturday 9 September 2023 10am CEST
 
 We'll update our [Schedule page](link://slug/schedule) when we get closer to the events.
