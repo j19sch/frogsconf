@@ -13,8 +13,8 @@
 # Friends of Good Software
 
 ## Save the dates
-- Unconference: Saturday 11 March 2023 10am CET
-- Unconference: Saturday 9 September 2023 10am CEST
+- Unconference: Saturday 11 March 2023 10am CET (online)
+- Unconference: Saturday 9 September 2023 10am CEST (online)
 
 ---
 
@@ -29,8 +29,8 @@ We've created a [video explaining our unconference](https://www.youtube.com/watc
 
 ### When is it?
 
-- Unconference: Saturday 11 March 2023 10am CET
-- Unconference: Saturday 9 September 2023 10am CEST
+- Unconference: Saturday 11 March 2023 10am CET (online)
+- Unconference: Saturday 9 September 2023 10am CEST (online)
 
 We'll update our [Schedule page](link://slug/schedule) when we get closer to the events.
 
