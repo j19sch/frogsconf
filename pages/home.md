@@ -16,7 +16,8 @@
 - Unconference: Saturday 11 March 2023 10am CET (online)
 - Unconference: Saturday 9 September 2023 10am CEST (online)
 
----
+<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Subscribe here</a> to be informed of upcoming events!
+
 
 ### What is FroGS Conf?
 

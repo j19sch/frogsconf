@@ -1255,7 +1255,18 @@ SHOW_SOURCELINK = False
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-EXTRA_HEAD_DATA = """<link href='/assets/fontawesome-free-5.14.0-web/css/all.min.css' rel='stylesheet'>"""
+EXTRA_HEAD_DATA = """
+<link href='/assets/fontawesome-free-5.14.0-web/css/all.min.css' rel='stylesheet'>
+<!-- MailerLite Universal -->
+<script>
+    (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+    .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+    n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+    (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+    ml('account', '338929');
+</script>
+<!-- End MailerLite Universal -->
+"""
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
