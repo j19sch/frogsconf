@@ -24,7 +24,7 @@ SITE_URL = "https://frogsconf.nl/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "frogsconf@gmail.com"
+BLOG_EMAIL = "organizers@frogsconf.nl"
 BLOG_DESCRIPTION = "Friends of Good Software"  # (translatable)
 
 # Nikola is multilingual!
@@ -143,7 +143,8 @@ NAVIGATION_LINKS = {
         ("/register", "Register"),
         ("/event-format", "Event format"),
         # ("/topics", "Possible session topics"),
-        ("/schedule", "Schedule"),
+        # ("/schedule-unconference", "Schedule"),
+        ("/schedule-leancoffee", "Schedule"),
         ("/code-of-conduct", "Code of conduct"),
     ),
 }

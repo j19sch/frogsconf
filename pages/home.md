@@ -13,7 +13,7 @@
 # Friends of Good Software
 
 ## Save the dates
-- Unconference: Saturday 11 March 2023 10am CET (online)
+- Lean Coffee: Tuesday 6 June 2023 4pm CEST (online)
 - Unconference: Saturday 9 September 2023 10am CEST (online)
 
 <a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Subscribe here</a> to be informed of upcoming events!
@@ -30,10 +30,7 @@ We've created a [video explaining our unconference](https://www.youtube.com/watc
 
 ### When is it?
 
-- Unconference: Saturday 11 March 2023 10am CET (online)
-- Unconference: Saturday 9 September 2023 10am CEST (online)
-
-We'll update our [Schedule page](link://slug/schedule) when we get closer to the events.
+Our intention is to host two unconferences and two lean coffees each year.
 
 If you want to know how long we've been doing this and who helped organize in the past, visit our [Previous editions](link://slug/previous-editions) page.
 
