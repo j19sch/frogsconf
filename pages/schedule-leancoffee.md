@@ -28,7 +28,7 @@
   <tbody>
     <tr class="sched-purple">
       <td>16:00 - 17:30</td>
-      <td>Lean Coffee starts</td>
+      <td>Lean Coffee</td>
     </tr>
   </tbody>
 </table>
