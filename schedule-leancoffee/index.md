@@ -32,5 +32,3 @@
     </tr>
   </tbody>
 </table>
-
-If you have a longer session, you can claim two slots during the marketplace.
