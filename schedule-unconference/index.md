@@ -1,6 +1,6 @@
 <!--
 .. title: Schedule
-.. slug: schedule
+.. slug: schedule-unconference
 .. date: 2022-12-22 13:14:47 UTC
 .. tags: 
 .. category: 
@@ -13,7 +13,7 @@
 
 ---
 
-### <a name="schedule-conference"></a>Saturday 11 March 2023 - Unconference
+### Saturday 11 March 2023 - Unconference
 
 <a href="https://bit.ly/frogs-2023" target="_blank">Schedule in your time zone</a> (inc `.ics` calendar file)
 
