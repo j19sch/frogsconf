@@ -23,7 +23,7 @@
 
 <img width="300px" src="/assets/images/frog-color-outline.png" style="float:right;"/>
 
-Friends of Good Software Conference (FroGS Conf) is an annual online unconference and quarterly lean coffee. It's a participant-driven meeting for and by people with an interest in software and quality. The organizers provide a basic structure; the rest is up to all of us, the participants.
+Friends of Good Software Conference (FroGS Conf) is an online unconference and lean coffee. It's a participant-driven meeting for and by people with an interest in software and quality. The organizers provide a basic structure; the rest is up to all of us, the participants.
 
 We've created a [video explaining our unconference](https://www.youtube.com/watch?v=c57sw2icUjI). You can find some tips & tricks for facilitating an unconference session on our [Event Format page](/event-format/#facilitating-a-session). Here's an explanation of the [lean coffee format](http://leancoffee.org/). 
 
