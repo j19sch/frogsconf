@@ -13,8 +13,8 @@
 # Friends of Good Software
 
 ## Save the dates
-- Lean Coffee: Tuesday 6 June 2023 4pm CEST (online)
 - Unconference: Saturday 9 September 2023 10am CEST (online)
+- Lean Coffee: Thursday 7 December 2023 4pm CEST (online)
 
 <a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Subscribe here</a> to be informed of upcoming events!
 
