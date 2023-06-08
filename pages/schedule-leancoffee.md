@@ -27,8 +27,12 @@
   </thead>
   <tbody>
     <tr class="sched-purple">
-      <td>16:00 - 17:30</td>
+      <td>16:00 - 17:00</td>
       <td>Lean Coffee</td>
+    </tr>
+    <tr class="sched-green">
+      <td>17:00 - 17:30</td>
+      <td>Hang out (optional)</td>
     </tr>
   </tbody>
 </table>

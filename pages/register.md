@@ -13,8 +13,8 @@
 
 ### Let us know you’re coming
 
-Follow the link below to register for our next lean coffee: Tuesday 6 June 4 pm CEST.
+Follow the link below to register for our next unconference: Saturday 9 September 2023.
 
-<button><a href="https://subscribepage.io/frogs-6jun23" target="_blank">Register here!</a></button>
+<button><a href="https://subscribepage.io/RbVx8f" target="_blank">Register here!</a></button>
 
 Virtual editions will always be free of charge, but you do need to register in order to participate. We'll only use your email to send you the necessary information about the event and to inform you about upcoming events.
