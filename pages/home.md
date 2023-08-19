@@ -1,11 +1,11 @@
 <!--
 .. title: FroGS conf
 .. slug: index
-.. date: 2022-12-22 13:45:47 UTC
+.. date: 2023-08-19 13:45:47 UTC
 .. tags: 
 .. category: 
 .. link: 
-.. description: Friends of Good Software (FroGS) - Saturday 11 March 2023 (unconference)
+.. description: Friends of Good Software (FroGS) - Saturday 9 September 2023 (unconference)
 .. type: text
 .. hidetitle: true
 -->
@@ -46,6 +46,12 @@ If you wish to attend, please go to the [Registration page](link://slug/register
 By participating in one of our events! Or even better by bringing a topic to an event.
 
 <img src="/assets/images/Kofi_logo_RGB_Outline.png" style="height:1rem; margin-right:0.5rem;"/> We're also accepting [donations at Ko-fi](https://ko-fi.com/frogsconf). The money will go towards the cost of mailing out FroGS stickers and supporting any future in-person gatherings. 
+
+### I can't make it this time! What do you recommend?
+
+<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Sign up for our newsletter</a> to receive emails about future events. And see if our sister conference fits into your life:
+
+- [SoCraTes (International Conference for Software Craft and Testing) in Germany](https://www.socrates-conference.de/home)
 
 ### Which tools do you use?
 
