@@ -16,7 +16,7 @@ FroGS (Friends of Good Software) conference site
 
 ## updates needed for each next event
 
-- main page: list of events
+- main page: description (page metadata), list of events
 - previous editions: list of events
 - `conf.py` > `NAVIGATION_LINKS`: link to correct schedule page
 - schedule page: event type and date, link to local schedule (https://localschedule.netlify.app/)
