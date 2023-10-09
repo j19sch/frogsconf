@@ -1,11 +1,11 @@
 <!--
 .. title: FroGS conf
 .. slug: index
-.. date: 2023-08-19 13:45:47 UTC
+.. date: 2023-10-09 13:45:47 UTC
 .. tags: 
 .. category: 
 .. link: 
-.. description: Friends of Good Software (FroGS) - Saturday 9 September 2023 (unconference)
+.. description: Friends of Good Software (FroGS) - Thursday 7 December 2023 4pm CEST (online lean coffee)
 .. type: text
 .. hidetitle: true
 -->
@@ -13,10 +13,13 @@
 # Friends of Good Software
 
 ## Save the dates
-- Unconference: Saturday 9 September 2023 10am CEST (online)
 - Lean Coffee: Thursday 7 December 2023 4pm CEST (online)
 
-<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Subscribe here</a> to be informed of upcoming events!
+<button><a href="https://subscribepage.io/KXkZJ9" target="_blank">Register here!</a></button>
+
+Virtual editions will always be free of charge, but you do need to register in order to participate. We'll only use your email to send you the necessary information about the event and to inform you about upcoming events.
+
+<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Subscribe here</a> to be informed of all future events!
 
 
 ### What is FroGS Conf?
