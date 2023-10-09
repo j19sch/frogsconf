@@ -1,7 +1,7 @@
 <!--
 .. title: Previous editions
 .. slug: previous-editions
-.. date: 2022-12-22 13:14:47 UTC
+.. date: 2023-10-09
 .. tags: 
 .. category: 
 .. link: 
