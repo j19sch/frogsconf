@@ -13,7 +13,7 @@
 # Friends of Good Software
 
 ## Register for our upcoming events
-- Lean Coffee: Thursday 7 December 2023 4pm CEST (online)
+- Lean Coffee: Thursday 7 December 2023 4pm CET (online)
 
 <button><a href="https://subscribepage.io/KXkZJ9" target="_blank">Register here!</a></button>
 
