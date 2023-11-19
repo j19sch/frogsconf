@@ -1,7 +1,7 @@
 <!--
 .. title: Schedule
 .. slug: schedule-unconference
-.. date: 2022-12-22 13:14:47 UTC
+.. date: 2022-12-22
 .. tags: 
 .. category: 
 .. link: 
