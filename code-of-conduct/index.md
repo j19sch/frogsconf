@@ -1,7 +1,7 @@
 <!--
 .. title: Code of conduct
 .. slug: code-of-conduct
-.. date: 2021-05-14 13:14:47 UTC
+.. date: 2021-05-14
 .. tags: 
 .. category: 
 .. link: 
