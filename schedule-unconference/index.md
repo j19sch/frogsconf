@@ -13,9 +13,9 @@
 
 ---
 
-### Saturday 9 September 2023 - Unconference
+### Saturday 23 March 2024 - Unconference
 
-<a href="https://localschedule.netlify.app/#v2%3A%7B%22name%22%3A%22FroGS%20unconference%22%2C%22day%22%3A%222023-09-09%22%2C%22tz%22%3A%22Europe%2FAmsterdam%22%2C%22sessions%22%3A%7B%22945%22%3A%22Walk%20in%20%26%20Shared%20Breakfast%22%2C%221000%22%3A%22Welcome%20%26%20Instructions%22%2C%221015%22%3A%22Marketplace%20%E2%80%93%20Determining%20our%20sessions%22%2C%221100%22%3A%22Interactive%20sessions%20%E2%80%93%20Round%201%22%2C%221145%22%3A%22Break%22%2C%221200%22%3A%22Interactive%20sessions%20%E2%80%93%20Round%202%22%2C%221245%22%3A%22Lunch%22%2C%221345%22%3A%22Marketplace%20%E2%80%93%20Determining%20our%20sessions%22%2C%221415%22%3A%22Interactive%20sessions%20%E2%80%93%20Round%203%22%2C%221500%22%3A%22Break%22%2C%221515%22%3A%22Interactive%20sessions%20%E2%80%93%20Round%204%22%2C%221600%22%3A%22Break%22%2C%221615%22%3A%22Interactive%20sessions%20%E2%80%93%20Round%205%22%2C%221700%22%3A%22Retrospective%20%26%20Closing%22%7D%7D"
+<a href="https://localschedule.netlify.app/#v2%3A%7B%22name%22%3A%22FroGS%20conf%20open%20space%22%2C%22day%22%3A%222024-03-23%22%2C%22tz%22%3A%22Europe%2FAmsterdam%22%2C%22sessions%22%3A%7B%22945%22%3A%22Walk%20in%20%26%20Shared%20Breakfast%22%2C%221000%22%3A%22Welcome%20%26%20Instructions%22%2C%221015%22%3A%22Marketplace%20%E2%80%93%20Determining%20our%20sessions%22%2C%221100%22%3A%22Interactive%20sessions%20%E2%80%93%20Round%201%22%2C%221145%22%3A%22Break%22%2C%221200%22%3A%22Interactive%20sessions%20%E2%80%93%20Round%202%22%2C%221245%22%3A%22Lunch%22%2C%221345%22%3A%22Marketplace%20%E2%80%93%20Determining%20our%20sessions%22%2C%221415%22%3A%22Interactive%20sessions%20%E2%80%93%20Round%203%22%2C%221500%22%3A%22Break%22%2C%221515%22%3A%22Interactive%20sessions%20%E2%80%93%20Round%204%22%2C%221600%22%3A%22Break%22%2C%221615%22%3A%22Interactive%20sessions%20%E2%80%93%20Round%205%22%2C%221700%22%3A%22Retrospective%20%26%20Closing%22%7D%7D"
   target="_blank">Schedule in your time zone</a> (inc `.ics` calendar file)
 
 
