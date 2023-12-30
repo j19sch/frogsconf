@@ -1,7 +1,7 @@
 <!--
 .. title: Register
 .. slug: register
-.. date: 2023-11-19
+.. date: 2023-12-30
 .. tags: 
 .. category: 
 .. link: 
@@ -10,12 +10,14 @@
 -->
 
 
-### Let us know you’re coming
+### Subscribe to our newsletter
 
-Follow the link below to register for our next lean coffee: Thursday 7 December 2023 4pm CET.
+We'll email you about upcoming events. A week ahead of time, we'll email you the links you need to join the event.
 
-<button><a href="https://subscribepage.io/KXkZJ9" target="_blank">Register here!</a></button>
+<button><a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Register here!</a></button>
 
-Online editions will always be free of charge, but you do need to register in order to participate. We'll only use your email to send you the necessary information about the event and to inform you about upcoming events.
+You can always unsubscribe.
 
-If you can't make this one, <a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">subscribe to our newsletter</a> to be informed about future events.
+---
+
+Online editions will always be free of charge. We'll only use your email to send you the necessary information about our events.
