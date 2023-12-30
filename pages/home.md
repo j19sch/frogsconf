@@ -1,7 +1,7 @@
 <!--
 .. title: FroGS conf
 .. slug: index
-.. date: 2023-11-19
+.. date: 2023-12-30
 .. tags: 
 .. category: 
 .. link: 
@@ -18,15 +18,16 @@
 - Open Space: Saturday 23 March 2024 10am CET (online, free)
 - Lean Coffee: Tuesday 11 June 2024 4pm CEST (online, free)
 
-<button><a href="https://subscribepage.io/bC4pcs" target="_blank">Register here!</a></button>
+<button><a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Register here!</a></button>
 
-<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Subscribe here</a> to be informed of all future events!
+We'll email you about upcoming events. A week ahead of time, we'll email you the links you need to join the event.
+
+You can always unsubscribe.
 
 ---
+<img width="300px" src="/assets/images/frog-color-outline.png" style="float:right;"/>
 
 ### What is FroGS Conf?
-
-<img width="300px" src="/assets/images/frog-color-outline.png" style="float:right;"/>
 
 Friends of Good Software Conference (FroGS Conf) is an online [unconference](https://www.youtube.com/watch?v=c57sw2icUjI) and [lean coffee](http://leancoffee.org/). It's a participant-driven meeting for and by people with an interest in software and quality. The organizers provide a basic structure; the rest is up to all of us, the participants.
 
@@ -38,11 +39,11 @@ We host two unconferences and two lean coffees each year. If you're curious abou
 
 By participating in one of our events! Or even better by bringing a topic to an event.
 
-<img src="/assets/images/Kofi_logo_RGB_Outline.png" style="height:1rem; margin-right:0.5rem;"/> We're also accepting [donations at Ko-fi](https://ko-fi.com/frogsconf). The money will go towards the cost of mailing out FroGS stickers and supporting any future in-person gatherings. 
+<img src="/assets/images/Kofi_logo_RGB_Outline.png" style="height:1rem; margin-right:0.5rem;"/> We're also accepting [donations at Ko-fi](https://ko-fi.com/frogsconf). The money will go towards the cost of mailing out FroGS stickers and paying for our online tools. 
 
 ### I can't make it this time! What do you recommend?
 
-<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Sign up for our newsletter</a> to receive emails about future events. And see if our sister conferences fits into your life:
+<a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Sign up for our newsletter</a> to receive emails about future events. And see if our sister conferences fit into your life:
 
 - [SoCraTes Germany](https://www.socrates-conference.de/home)
 - [SoCraTes France](https://socrates-fr.github.io/)
