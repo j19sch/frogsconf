@@ -5,7 +5,7 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: Friends of Good Software (FroGS) - Thursday 7 December 2023 4pm CEST (online lean coffee)
+.. description: Friends of Good Software (FroGS) - Saturday 23 March 2024 10am CET (online open space)
 .. type: text
 .. hidetitle: true
 -->
@@ -15,10 +15,10 @@
 <div style="margin-top: 1rem"/>
 
 ## Our upcoming events
-- Lean Coffee: Thursday 7 December 2023 4pm CET (online, free)
 - Open Space: Saturday 23 March 2024 10am CET (online, free)
+- Lean Coffee: Tuesday 11 June 2024 4pm CEST (online, free)
 
-<button><a href="https://subscribepage.io/KXkZJ9" target="_blank">Register here!</a></button>
+<button><a href="https://subscribepage.io/bC4pcs" target="_blank">Register here!</a></button>
 
 <a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Subscribe here</a> to be informed of all future events!
 

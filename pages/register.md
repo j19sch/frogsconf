@@ -12,9 +12,9 @@
 
 ### Let us know you’re coming
 
-Follow the link below to register for our next lean coffee: Thursday 7 December 2023 4pm CET.
+Follow the link below to register for our next open space / unconference: Saturday 23 March 2024 10am CET.
 
-<button><a href="https://subscribepage.io/KXkZJ9" target="_blank">Register here!</a></button>
+<button><a href="https://subscribepage.io/bC4pcs" target="_blank">Register here!</a></button>
 
 Online editions will always be free of charge, but you do need to register in order to participate. We'll only use your email to send you the necessary information about the event and to inform you about upcoming events.
 

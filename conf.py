@@ -143,8 +143,8 @@ NAVIGATION_LINKS = {
         ("/register", "Register"),
         ("/event-format", "Event format"),
         # ("/topics", "Possible session topics"),
-        # ("/schedule-unconference", "Schedule"),
-        ("/schedule-leancoffee", "Schedule"),
+        ("/schedule-unconference", "Schedule"),
+        # ("/schedule-leancoffee", "Schedule"),
         ("/code-of-conduct", "Code of conduct"),
     ),
 }
