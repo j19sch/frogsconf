@@ -1,6 +1,6 @@
 <!--
 .. title: Schedule
-.. slug: schedule-unconference
+.. slug: schedule
 .. date: 2022-12-22
 .. tags: 
 .. category: 
