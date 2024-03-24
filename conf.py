@@ -142,9 +142,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/register", "Register"),
         ("/event-format", "Event format"),
-        # ("/topics", "Possible session topics"),
         ("/schedule", "Schedule"),
-        # ("/schedule-leancoffee", "Schedule"),
         ("/code-of-conduct", "Code of conduct"),
     ),
 }

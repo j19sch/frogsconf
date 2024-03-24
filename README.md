@@ -18,5 +18,6 @@ FroGS (Friends of Good Software) conference site
 
 - main page: description (page metadata), list of events
 - previous editions: update list of events with latest event
-- `conf.py` > `NAVIGATION_LINKS`: link to correct schedule page and update schedule page slug
-- schedule page: event date, link to local schedule (https://localschedule.netlify.app/)
+- schedule page:
+	- update description in page metadata
+	- update past event (date in heading, link to [local schedule](https://localschedule.netlify.app/)) and move it below next event
