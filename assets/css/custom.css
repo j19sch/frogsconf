@@ -78,6 +78,18 @@ div.container {
 	font-family: 'PT Mono', sans-serif;
 }
 
+.body-content h2 {
+	font-size: 1.75rem	
+}
+
+.body-content h2.small {
+	font-size: 1.5rem	
+}
+
+.body-content h3 {
+	font-size: 1.5rem	
+}
+
 .body-content {
 	font-family: 'Lora', serif;
 }
@@ -102,4 +114,9 @@ button {
 
 .body-content button a {
 	color: black;
+}
+
+.body-content hr.tall {
+	margin-top: 1rem;
+	margin-bottom: 1.5rem;
 }

@@ -1,21 +1,16 @@
 <!--
-.. title: FroGS conf
+.. title: Friends of Good Software conference
 .. slug: index
 .. date: 2023-12-30
 .. tags: 
 .. category: 
 .. link: 
-.. description: Friends of Good Software (FroGS) - Saturday 23 March 2024 10am CET (online open space)
+.. description: Friends of Good Software (FroGS) - Tuesday 11 June 2024 4pm CET (lean coffee)
 .. type: text
-.. hidetitle: true
 -->
 
-# Friends of Good Software
 
-<div style="margin-top: 1rem"/>
-
-## Our upcoming events
-- Open Space: Saturday 23 March 2024 10am CET (online, free)
+# Our upcoming events
 - Lean Coffee: Tuesday 11 June 2024 4pm CEST (online, free)
 - Open Space: Saturday 21 September 2024 10am CET (online, free)
 
@@ -28,7 +23,7 @@ You can always unsubscribe.
 ---
 <img width="300px" src="/assets/images/frog-color-outline.png" style="float:right;"/>
 
-### What is FroGS Conf?
+## What is FroGS Conf?
 
 Friends of Good Software Conference (FroGS Conf) is an online [unconference](https://www.youtube.com/watch?v=c57sw2icUjI) and [lean coffee](http://leancoffee.org/). It's a participant-driven meeting for and by people with an interest in software and quality. The organizers provide a basic structure; the rest is up to all of us, the participants.
 
@@ -36,13 +31,13 @@ We host two unconferences and two lean coffees each year. If you're curious abou
 
 ---
 
-### How can I support FroGS Conf?
+## How can I support FroGS Conf?
 
 By participating in one of our events! Or even better by bringing a topic to an event.
 
 <img src="/assets/images/Kofi_logo_RGB_Outline.png" style="height:1rem; margin-right:0.5rem;"/> We're also accepting [donations at Ko-fi](https://ko-fi.com/frogsconf). The money will go towards the cost of mailing out FroGS stickers and paying for our online tools. 
 
-### I can't make it this time! What do you recommend?
+## I can't make it this time! What do you recommend?
 
 <a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Sign up for our newsletter</a> to receive emails about future events. And see if our sister conferences fit into your life:
 
@@ -53,7 +48,7 @@ By participating in one of our events! Or even better by bringing a topic to an 
 ---
 
 
-## FroGS conference team
+# FroGS conference team
 
 <div style="display:flex; justify-content:space-evenly; flex-wrap:wrap;">
 	<div style="width:250px; margin:20px;">

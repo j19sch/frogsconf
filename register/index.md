@@ -10,7 +10,7 @@
 -->
 
 
-### Subscribe to our newsletter
+# Subscribe to our newsletter {.small}
 
 We'll email you about upcoming events. A week ahead of time, we'll email you the links you need to join the event.
 

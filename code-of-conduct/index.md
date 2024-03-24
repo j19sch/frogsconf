@@ -9,18 +9,18 @@
 .. type: text
 -->
 
-## Short version
+# Short version
 
 Be a respectful human person. Let other people be themselves. Do not ruin anyone else’s experience. Keep an open mind. If you see or experience something unacceptable, respectfully ask for it to stop. The FroGS conf organizers will support you.
 
 
-## Long version
+# Long version
 
 This code of conduct applies to the organizers and community attending FroGS conf event and conversing in our Slack channel.
 
 We believe in fostering a diversity of ideas, so we strive to create safe, inclusive, supportive places for everyone. This is regardless of gender, sexual orientation, age, disability, medical conditions, nationality, ethnicity, religion, physical appearance, politics, ideology, software preferences, level of experience, or other similar characteristics.
 
-### Values
+## Values
 
 - Admit when you do not know something.
 - We all make mistakes. If you make a mistake, apologize.
@@ -34,7 +34,7 @@ We believe in fostering a diversity of ideas, so we strive to create safe, inclu
 We want to allow people to talk about software testing in a space free from harassment, discrimination, intimidation, or unwelcome attention of any sort. We will do our best to create this environment. Please come forward if you need our support in maintaining this vision.
 
 
-### Do You Need Support?
+## Do You Need Support?
 
 Contact Elizabeth, Huib, Joep, or Sanne in person or privately on Slack to ask for support.
 

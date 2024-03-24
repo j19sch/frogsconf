@@ -17,7 +17,7 @@ Anyone who wants to initiate a topic can claim a slot in the agenda. Once you ar
 
 ---
 
-## Which tools do you use?
+# Which tools do you use?
 
 - __[Welo](https://www.welo.space/) for video conferencing__  
   It provides a different atmosphere than many video conferencing tools. You can see which participants are in different rooms and move around to join them. We're grateful to Welo for allowing us to use their platform for free.
@@ -33,7 +33,7 @@ Anyone who wants to initiate a topic can claim a slot in the agenda. Once you ar
 
 ---
 
-## <a name="open-space-format"></a>Open Space format
+# <a name="open-space-format"></a>Open Space format
 
 - __Whoever comes is the right people__  
 	As a facilitator, you should welcome anyone who has joined your session, and not frustrated if you expected different people.  
@@ -52,16 +52,16 @@ Anyone who wants to initiate a topic can claim a slot in the agenda. Once you ar
 - __When it’s over, it’s over__  
 	As a facilitator, it’s up to you to mind your timebox. The organizers will not do it for you. Keep in mind that the participants of your session might want to go to another session after yours, and that the room might be reserved after. Feel free to continue in a different location with anyone who is interested.
 
-### Law of mobility (law of two feet)
+## Law of mobility (law of two feet)
 If anyone finds themselves in a session where they are neither learning nor contributing, they have the responsibility to themselves to go to a more interesting place.
 
 
 ---
 
-## <a name="facilitating-a-session"></a> Facilitating a session
+# <a name="facilitating-a-session"></a> Facilitating a session
 
 We have a dedicated channel in our Slack space called [`#friends-of-good-sessions`](https://frogsconf.slack.com/archives/C02QF5ME277) to support you in facilitating a session. If you want feedback on your idea or are looking for a co-facilitator, go there and ask!
 
-### Possible session topics
+## Possible session topics
 
 Since the unconference is called “Friends of Good Software conference” we'd like to see sessions related to the themes of software and quality. For your session format you have several options: presentation, discussion, coaching session, workshop, trying out something new, etc. Find a format that works for you.
