@@ -1,4 +1,4 @@
-< !--
+<!--
 .. title: Event format
 .. slug: event-format
 .. date: 2023-11-19
@@ -9,7 +9,7 @@
 .. type: text
 -->
 
-![open space marketplace](/assets/images/event-format.jpeg)
+![Welo video conferencing open space](/assets/images/welo.png)
 
 FroGS Conf uses the [Open Space format](link://slug/event-format#open-space-format), so everyone can learn from and share with each other. In this format, __attendees are also session contributors__. It’s a way to build an experience focused on those meaningful interactions you have during the breaks at a normal conference.
 
@@ -23,7 +23,7 @@ Anyone who wants to initiate a topic can claim a slot in the agenda. Once you ar
   It provides a different atmosphere than many video conferencing tools. You can see which participants are in different rooms and move around to join them. We're grateful to Welo for allowing us to use their platform for free.
 
 - __[Miro](https://miro.com/) for online whiteboarding__  
-  We've used a paid instance of Miro provided by [Quality Accelerators](https://www.qualityaccelerators.nl/) to plan the schedule, pitch topics, and take notes during the sessions.
+  We've used a paid instance of Miro provided by one of our employers to plan the schedule, pitch topics, and take notes during the sessions.
 
 - __[Local Schedule](https://localschedule.netlify.app/) for scheduling across time zones__  
   [Markus Tacker](https://chaos.social/@coderbyheart), our steadfast supporter and originator of the FroGS name, built a great tool to view schedules in your own time zone.
@@ -65,3 +65,6 @@ We have a dedicated channel in our Slack space called [`#friends-of-good-session
 ## Possible session topics
 
 Since the unconference is called “Friends of Good Software conference” we'd like to see sessions related to the themes of software and quality. For your session format you have several options: presentation, discussion, coaching session, workshop, trying out something new, etc. Find a format that works for you.
+
+
+![Miro board, zooming in on the session also provides the canvas to take notes](/assets/images/miro-board.png)
