@@ -5,7 +5,7 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: Friends of Good Software (FroGS) schedule, lean coffee 4pm CEST 11 June 2024
+.. description: Friends of Good Software (FroGS) schedule, open space Saturday, September 21 starting 10am CEST
 .. type: text
 -->
 
@@ -14,7 +14,7 @@
 
 <hr class="tall" />
 
-
+<!--
 # Tuesday 11 June 2024 - Lean Coffee {.small}
 
 <a href="https://localschedule.netlify.app/#v2%3A%7B%22name%22%3A%22FroGS%20conf%20lean%20coffee%22%2C%22day%22%3A%222024-06-11%22%2C%22tz%22%3A%22Europe%2FAmsterdam%22%2C%22sessions%22%3A%7B%221600%22%3A%22lean%20coffee%22%2C%221700%22%3A%22hang%20out%20(optional)%22%7D%7D"
@@ -41,6 +41,7 @@
 
 
 <hr class="tall" />
+-->
 
 
 # Saturday 21 September 2024 - Unconference {.small}
