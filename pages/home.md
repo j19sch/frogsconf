@@ -11,8 +11,8 @@
 
 
 # Our upcoming events
-- Lean Coffee: Tuesday 11 June 2024 4pm CEST (online, free)
 - Open Space: Saturday 21 September 2024 10am CET (online, free)
+- Lean Coffee: some weekday in December, to be announced soon
 
 <button><a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Register here!</a></button>
 
