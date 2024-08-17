@@ -12,7 +12,7 @@
 
 # Our upcoming events
 - Open Space: Saturday 21 September 2024 10am CEST (online, free)
-- Lean Coffee: some weekday in December, to be announced soon
+- Lean Coffee: Monday 2 December 2024 4pm CET (online, free)
 
 <button><a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Register here!</a></button>
 
@@ -25,7 +25,7 @@ You can always unsubscribe.
 
 ## What is FroGS Conf?
 
-Friends of Good Software Conference (FroGS Conf) is an online [unconference](https://www.youtube.com/watch?v=c57sw2icUjI) and [lean coffee](http://leancoffee.org/). It's a participant-driven meeting for and by people with an interest in software and quality. The organizers provide a basic structure; the rest is up to all of us, the participants.
+Friends of Good Software Conference (FroGS Conf) is an online [unconference](https://www.youtube.com/watch?v=c57sw2icUjI) (open space) and [lean coffee](http://leancoffee.org/). It's a participant-driven meeting for and by people with an interest in software and quality. The organizers provide a basic structure; the rest is up to all of us, the participants.
 
 We host two unconferences and two lean coffees each year. If you're curious about past editions and organizers, visit our [Previous editions](link://slug/previous-editions) page.
 
