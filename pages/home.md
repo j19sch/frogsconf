@@ -5,13 +5,14 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: Friends of Good Software (FroGS) - Monday 2 December 2024 3pm CET (open space)
+.. description: Friends of Good Software (FroGS) - Saturday 22 March 2025 1pm CET (open space)
 .. type: text
 -->
 
 
 # Our upcoming events
-- Open Space: Monday 2 December 2024 3pm CET (online, free, 3 hours)
+- Open Space: Saturday 22 March 2025 1pm CET (online, free, 5 hours)
+- Open Space: Wednesday 14 May 2025 3pm CEST (online, free, 3 hours)
 
 <button><a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Register here!</a></button>
 
