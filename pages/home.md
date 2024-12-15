@@ -62,7 +62,6 @@ By participating in one of our events! Or even better by bringing a topic to an 
 		<p class="text-center">Huib Schoots
 			<a href="https://www.linkedin.com/in/huibschoots/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
 			<a href="https://chaos.social/@huib@sw-development-is.social" target="_blank" rel="me"><i class="fab fa-mastodon" aria-hidden="true"></i></a>
-			<a href="https://twitter.com/huibschoots" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 		</p>
 	</div>
 	<div style="width:250px; margin:20px;">
