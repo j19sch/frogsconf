@@ -20,4 +20,4 @@ FroGS (Friends of Good Software) conference site
 - previous editions: update list of events with latest event
 - schedule page:
 	- update description in page metadata
-	- update past event (date in heading, link to [local schedule](https://localschedule.netlify.app/)) and move it below next event
+	- update to show schedule(s) of next event(s)

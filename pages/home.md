@@ -5,13 +5,14 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: Friends of Good Software (FroGS) - Monday 2 December 2024 3pm CET (open space)
+.. description: Friends of Good Software (FroGS) - Saturday 22 February 2025 1pm CET (open space)
 .. type: text
 -->
 
 
 # Our upcoming events
-- Open Space: Monday 2 December 2024 3pm CET (online, free, 3 hours)
+- Open Space: Saturday 22 February 2025 1pm CET (online, free, 5 hours)
+- Open Space: Wednesday 14 May 2025 3pm CEST (online, free, 3 hours)
 
 <button><a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Register here!</a></button>
 
@@ -62,7 +63,6 @@ By participating in one of our events! Or even better by bringing a topic to an 
 		<p class="text-center">Huib Schoots
 			<a href="https://www.linkedin.com/in/huibschoots/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
 			<a href="https://chaos.social/@huib@sw-development-is.social" target="_blank" rel="me"><i class="fab fa-mastodon" aria-hidden="true"></i></a>
-			<a href="https://twitter.com/huibschoots" target="_blank"><i class="fab fa-twitter" aria-hidden="true"></i></a>
 		</p>
 	</div>
 	<div style="width:250px; margin:20px;">
