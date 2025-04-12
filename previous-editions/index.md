@@ -10,6 +10,7 @@
 -->
 
 # Unconferences
+- 22 February 2025
 - 2 December 2024
 - 21 September 2024
 - 23 March 2024
