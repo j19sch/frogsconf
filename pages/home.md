@@ -12,7 +12,7 @@
 
 # Our upcoming events
 - Open Space: Wednesday 14 May 2025 3pm CEST (online, free, 3 hours)
-- Open Space: Saturday 20 September 2025 (online, free, 5 hours)
+- Open Space: Saturday 20 September 2025 1pm CEST (online, free, 5 hours)
 
 <button><a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Register here!</a></button>
 
