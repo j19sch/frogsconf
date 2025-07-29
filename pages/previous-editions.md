@@ -1,7 +1,6 @@
 <!--
 .. title: Previous editions
 .. slug: previous-editions
-.. date: 2023-10-09
 .. tags: 
 .. category: 
 .. link: 
@@ -10,6 +9,7 @@
 -->
 
 # Unconferences
+- 14 May 2025
 - 22 February 2025
 - 2 December 2024
 - 21 September 2024

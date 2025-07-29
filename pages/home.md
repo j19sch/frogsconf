@@ -1,17 +1,15 @@
 <!--
 .. title: Friends of Good Software conference
 .. slug: index
-.. date: 2023-12-30
 .. tags: 
 .. category: 
 .. link: 
-.. description: Friends of Good Software (FroGS) - Wednesday 14 May 2025 3pm CEST (open space)
+.. description: Friends of Good Software (FroGS) - Saturday 20 September 2025 1pm CEST (open space)
 .. type: text
 -->
 
 
 # Our upcoming events
-- Open Space: Wednesday 14 May 2025 3pm CEST (online, free, 3 hours)
 - Open Space: Saturday 20 September 2025 1pm CEST (online, free, 5 hours)
 
 <button><a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Register here!</a></button>
@@ -27,7 +25,7 @@ You can always unsubscribe.
 
 Friends of Good Software Conference (FroGS Conf) is an online [unconference](https://www.youtube.com/watch?v=c57sw2icUjI) (open space) and [lean coffee](http://leancoffee.org/). It's a participant-driven meeting for and by people with an interest in software and quality. The organizers provide a basic structure; the rest is up to all of us, the participants.
 
-We host two unconferences and two lean coffees each year. If you're curious about past editions and organizers, visit our [Previous editions](link://slug/previous-editions) page.
+We host a few unconferences or lean coffees per year. If you're curious about past editions and organizers, visit our [Previous editions](link://slug/previous-editions) page.
 
 ---
 
