@@ -4,13 +4,13 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: Friends of Good Software (FroGS) - Saturday 20 September 2025 1pm CEST (open space)
+.. description: Friends of Good Software (FroGS) - Wednesday 3 December 2025 4pm CST (lean coffee)
 .. type: text
 -->
 
 
 # Our upcoming events
-- Open Space: Saturday 20 September 2025 1pm CEST (online, free, 5 hours)
+- Lean Coffee: Wednesday 3 December 2025 4pm CST (online, free, 1 hour)
 
 <button><a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Register here!</a></button>
 
