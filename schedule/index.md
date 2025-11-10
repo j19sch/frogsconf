@@ -4,7 +4,7 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: Friends of Good Software (FroGS) schedule - Wednesday 3 December 2025 4pm CST (lean coffee)
+.. description: Friends of Good Software (FroGS) schedule - Wednesday 3 December 2025 4pm CET (lean coffee)
 .. type: text
 -->
 
