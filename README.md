@@ -21,3 +21,7 @@ FroGS (Friends of Good Software) conference site
 - schedule page:
 	- update description in page metadata
 	- update to show schedule(s) of next event(s)
+- links page:
+	- Whereby link
+	- Miro board link
+	- Schedule in your timezone link

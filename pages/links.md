@@ -10,7 +10,7 @@
 
 The links you need to join the Friends of Good Software.
 
-- [Whereby](https://whereby.com/) (video)
+- [Whereby](https://frogsconf.whereby.com/leancoffee) (video for December 2025)
 - [Miro board](https://miro.com/app/board/uXjVJo6meO8=/) (agenda and notes for December 2025)
 - [Schedule](https://frogsconf.nl/schedule/) (self-explanatory)
 - [Schedule in your time zone](https://localschedule.netlify.app/#v2%3A%7B%22name%22%3A%22FroGS%20conf%20lean%20coffee%22%2C%22day%22%3A%222025-12-03%22%2C%22tz%22%3A%22Europe%2FAmsterdam%22%2C%22sessions%22%3A%7B%221600%22%3A%22Lean%20Coffee%22%2C%221700%22%3A%22Hang%20out%20(optional)%22%7D%7D) (includes link to calendar .ics file)
