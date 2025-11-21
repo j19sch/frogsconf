@@ -11,7 +11,7 @@
 
 # Short version
 
-Be a respectful human person. Let other people be themselves. Do not ruin anyone else’s experience. Keep an open mind. If you see or experience something unacceptable, respectfully ask for it to stop. The FroGS conf organizers will support you.
+Be a respectful human person. Let other people be themselves. Do not ruin anyone else’s experience. Keep an open mind. If you see or experience something unacceptable, respectfully ask for it to stop. The FroGS Conf organizers will support you.
 
 
 # Long version
@@ -36,6 +36,6 @@ We want to allow people to talk about software testing in a space free from hara
 
 ## Do You Need Support?
 
-Contact Elizabeth, Huib, Joep, or Sanne on Slack to ask for support.
+Contact Elizabeth, Sanne, or Joep on Slack to ask for support.
 
 If we determine that a participant’s behaviour does not align with this code of conduct, we may take any action we deem appropriate. This may include expulsion and exclusion from the event or Slack without warning or a refund. 

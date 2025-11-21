@@ -9,8 +9,6 @@
 .. type: text
 -->
 
-![Welo video conferencing open space](/assets/images/welo.png)
-
 FroGS Conf uses the [Open Space format](link://slug/event-format#open-space-format), so everyone can learn from and share with each other. In this format, __attendees are also session contributors__. It’s a way to build an experience focused on those meaningful interactions you have during the breaks at a normal conference.
 
 Anyone who wants to initiate a topic can claim a slot in the agenda. Once you are at the event, the __organizers' job is mostly over__. They have provided a space and the tools for the event; it’s __up to you to participate and make it a great event__. At the beginning of the event, we will go over the open space principles and rules as a reminder.
@@ -19,11 +17,11 @@ Anyone who wants to initiate a topic can claim a slot in the agenda. Once you ar
 
 # Which tools do you use?
 
-- __[Welo](https://www.welo.space/) for video conferencing__  
-  It provides a different atmosphere than many video conferencing tools. You can see which participants are in different rooms and move around to join them. We're grateful to Welo for allowing us to use their platform for free.
+- __[Whereby](https://whereby.com/) for video conferencing__  
+  We're paying Whereby during the months when we host events. 
 
 - __[Miro](https://miro.com/) for online whiteboarding__  
-  We've used a paid instance of Miro provided by one of our employers to plan the schedule, pitch topics, and take notes during the sessions.
+  We're using a paid instance of Miro (it's Joep's) to plan the schedule, pitch topics, and take notes during the sessions.
 
 - __[Local Schedule](https://localschedule.netlify.app/) for scheduling across time zones__  
   [Markus Tacker](https://chaos.social/@coderbyheart), our steadfast supporter and originator of the FroGS name, built a great tool to view schedules in your own time zone.
