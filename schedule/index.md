@@ -154,7 +154,7 @@ If you have a longer session, you can claim two slots during the marketplace.
  -->
 
 
-# Wednesday 3 December 2024 - Lean Coffee {.small}
+# Wednesday 3 December 2025 - Lean Coffee {.small}
 
 <a href="https://localschedule.netlify.app/#v2%3A%7B%22name%22%3A%22FroGS%20conf%20lean%20coffee%22%2C%22day%22%3A%222025-12-03%22%2C%22tz%22%3A%22Europe%2FAmsterdam%22%2C%22sessions%22%3A%7B%221600%22%3A%22Lean%20Coffee%22%2C%221700%22%3A%22Hang%20out%20(optional)%22%7D%7D"
   target="_blank">Schedule in your time zone</a> (inc `.ics` calendar file)
