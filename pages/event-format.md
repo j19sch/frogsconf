@@ -9,6 +9,8 @@
 .. type: text
 -->
 
+![Whereby video call, with Miro board shared](/assets/images/frogs-december-2025.png)
+
 FroGS Conf uses the [Open Space format](link://slug/event-format#open-space-format), so everyone can learn from and share with each other. In this format, __attendees are also session contributors__. It’s a way to build an experience focused on those meaningful interactions you have during the breaks at a normal conference.
 
 Anyone who wants to initiate a topic can claim a slot in the agenda. Once you are at the event, the __organizers' job is mostly over__. They have provided a space and the tools for the event; it’s __up to you to participate and make it a great event__. At the beginning of the event, we will go over the open space principles and rules as a reminder.
