@@ -8,5 +8,6 @@ cache/
 
 
 # Python
-venv*/
+venv/
+venv9/
 __pycache__/
