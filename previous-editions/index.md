@@ -25,6 +25,7 @@
 - 28 September 2019 (in person, as TestCraftCamp)
 
 # Lean coffees
+- 3 December 2025
 - 11 June 2024
 - 7 December 2023
 - 6 June 2023

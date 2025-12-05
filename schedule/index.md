@@ -71,10 +71,9 @@ If you have a longer session, you can claim two slots during the marketplace.
 <hr class="tall" />
 !-->
 
-<!-- # Saturday 20 September 2025 - Open Space {.small}
+# Saturday 28 February 2026 - Open Space {.small}
 
-<a href="https://localschedule.netlify.app/#v2%3A%7B%22name%22%3A%22FroGS%20conf%20open%20space%22%2C%22day%22%3A%222025-09-20%22%2C%22tz%22%3A%22Europe%2FAmsterdam%22%2C%22sessions%22%3A%7B%221400%22%3A%22Interactive%20sessions%20%E2%80%93%20Round%201%22%2C%221430%22%3A%22Break%22%2C%221445%22%3A%22Interactive%20sessions%20%E2%80%93%20Round%202%22%2C%221515%22%3A%22Break%22%2C%221530%22%3A%22Interactive%20sessions%20%E2%80%93%20Round%203%22%2C%221600%22%3A%22Break%22%2C%221615%22%3A%22Hallway%20track%20%2F%20socializing%22%2C%221645%22%3A%22Interactive%20sessions%20%E2%80%93%20Round%204%22%2C%221715%22%3A%22Break%22%2C%221730%22%3A%22Interactive%20sessions%20%E2%80%93%20Round%205%22%2C%221300%40Main%20room%22%3A%22Walk%20in%20%26%20Get%20tech%20sorted%20out%22%2C%221305%40Main%20room%22%3A%22Welcome%20%26%20Instructions%22%2C%221315%40Main%20room%22%3A%22Marketplace%20%E2%80%93%20Determining%20our%20sessions%22%2C%221635%40Main%20room%22%3A%22Second%20marketplace%22%2C%221800%40Main%20room%22%3A%22Retrospective%20%26%20Closing%22%7D%7D"
-  target="_blank">Schedule in your time zone</a> (inc `.ics` calendar file)
+<a href="https://localschedule.netlify.app/#v2%3A%7B%22name%22%3A%22FroGS%20Conf%20Open%20Space%22%2C%22day%22%3A%222026-02-28%22%2C%22tz%22%3A%22Europe%2FAmsterdam%22%2C%22sessions%22%3A%7B%221300%22%3A%22Welcome%2C%20Instructions%2C%20Small%20Chats%2C%20and%20Marketplace%22%2C%221400%22%3A%22Round%201%22%2C%221430%22%3A%22Break%22%2C%221445%22%3A%22Round%202%22%2C%221515%22%3A%22Break%22%2C%221530%22%3A%22Round%203%22%2C%221600%22%3A%22Break%22%2C%221615%22%3A%22Hallway%20track%22%2C%221635%22%3A%22Another%20Marketplace%22%2C%221645%22%3A%22Round%204%22%2C%221715%22%3A%22Break%22%2C%221730%22%3A%22Round%205%22%2C%221800%22%3A%22Retrospective%20%26%20Closing%22%7D%7D" target="_blank">Schedule in your time zone</a> (inc `.ics` calendar file)
 
 <table class="table table-sm" style="max-width:600px">
   <thead class="thead-light">
@@ -149,10 +148,8 @@ If you have a longer session, you can claim two slots during the marketplace.
 
 If you have a longer session, you can claim two slots during the marketplace.
 
+<!--
 <hr class="tall" />
-
- -->
-
 
 # Wednesday 3 December 2025 - Lean Coffee {.small}
 
@@ -177,4 +174,4 @@ If you have a longer session, you can claim two slots during the marketplace.
     </tr>
   </tbody>
 </table>
-
+-->
