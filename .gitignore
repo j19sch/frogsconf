@@ -9,4 +9,7 @@ cache/
 
 # Python
 venv/
+venv*/
+venv9/
+venv9*/
 __pycache__/
