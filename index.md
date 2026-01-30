@@ -10,7 +10,7 @@
 
 
 # Our upcoming events
-- Open Space: Satuday 28 February 2026 1pm CET (online, free, 5 hours)
+- Open Space: Saturday 28 February 2026 1pm CET (online, free, 5 hours)
 
 <button><a class="ml-onclick-form" href="javascript:void(0)" onclick="ml('show', 'f3PgCU', true)">Register here!</a></button>
 
