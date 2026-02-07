@@ -57,11 +57,10 @@ By participating in one of our events! Or even better by bringing a topic to an 
 		</p>
 	</div>
 	<div style="width:250px; margin:20px;">
-		<img class="d-block ml-auto mr-auto rounded-circle" style="width:70%" src="/assets/images/joep-300x300.jpeg"/>
+		<img class="d-block ml-auto mr-auto rounded-circle" style="width:70%" src="/assets/images/joep-450x450.jpg"/>
 		<p class="text-center">Joep Schuurkes
 			<a href="https://www.linkedin.com/in/joepschuurkes/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
 			<a href="https://chaos.social/@joeposaurus" target="_blank" rel="me"><i class="fab fa-mastodon" aria-hidden="true"></i></a>
-			<a href="https://bsky.app/profile/joeposaurus.bsky.social" target="_blank" rel="me"><i class="fa fa-solid fa-square" aria-hidden="true"></i></a>
 		</p>
 	</div>
 	<div style="width:250px; margin:20px;">
