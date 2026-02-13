@@ -53,7 +53,7 @@ By participating in one of our events! Or even better by bringing a topic to an 
 
 <div style="display:flex; justify-content:space-evenly; flex-wrap:wrap;">
 	<div style="width:250px; margin:20px;">
-		<img class="d-block ml-auto mr-auto rounded-circle" style="width:70%" src="/assets/images/ez-square.png"/>
+		<img class="d-block ml-auto mr-auto rounded-circle" style="width:70%" src="/assets/images/ez-square.jpg"/>
 		<p class="text-center">Elizabeth Zagroba
 			<a href="https://www.linkedin.com/in/ezagroba/" target="_blank"><i class="fab fa-linkedin" aria-hidden="true"></i></a>
 			<a href="https://chaos.social/@ez" target="_blank" rel="me"><i class="fab fa-mastodon" aria-hidden="true"></i></a>
