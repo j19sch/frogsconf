@@ -10,7 +10,7 @@
 
 The links you need to join the Friends of Good Software.
 
-- [Whereby](https://frogsconf.whereby.com/unconference) (video) 
+- [FroGS room on Whereby](https://frogsconf.whereby.com/unconference) (video)
 - [Miro board](https://miro.com/app/board/uXjVGEaYaf4=/) (agenda and notes)
 - [Schedule](link://slug/schedule) (self-explanatory)
 - [Schedule in your time zone](https://localschedule.netlify.app/#v2%3A%7B%22name%22%3A%22FroGS%20Conf%20Open%20Space%22%2C%22day%22%3A%222026-02-28%22%2C%22tz%22%3A%22Europe%2FAmsterdam%22%2C%22sessions%22%3A%7B%221300%22%3A%22Welcome%2C%20Instructions%2C%20Small%20Chats%2C%20and%20Marketplace%22%2C%221400%22%3A%22Round%201%22%2C%221430%22%3A%22Break%22%2C%221445%22%3A%22Round%202%22%2C%221515%22%3A%22Break%22%2C%221530%22%3A%22Round%203%22%2C%221600%22%3A%22Break%22%2C%221615%22%3A%22Hallway%20track%22%2C%221635%22%3A%22Another%20Marketplace%22%2C%221645%22%3A%22Round%204%22%2C%221715%22%3A%22Break%22%2C%221730%22%3A%22Round%205%22%2C%221800%22%3A%22Retrospective%20%26%20Closing%22%7D%7D) (includes link to calendar .ics file)
